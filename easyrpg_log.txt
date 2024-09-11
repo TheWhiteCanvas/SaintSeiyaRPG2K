@@ -1,0 +1,1264 @@
+[2024-05-24 20:49:41] Debug: Image size out of bounds: CharSet/cisnenegro (288x256 < 72x128 < 288x256)
+[2024-05-24 20:49:41] Debug: Image size out of bounds: CharSet/debasaga (288x256 < 256x256 < 288x256)
+[2024-05-24 20:49:41] Debug: Image size out of bounds: CharSet/debasaga (288x256 < 256x256 < 288x256) [2x]
+[2024-05-24 20:49:41] Debug: Image size out of bounds: CharSet/dragonshiryu (288x256 < 257x158 < 288x256)
+[2024-05-24 20:49:41] Debug: Image size out of bounds: CharSet/hyoga2 (288x256 < 72x128 < 288x256)
+[2024-05-24 20:49:41] Debug: Image size out of bounds: CharSet/muad (288x256 < 72x128 < 288x256)
+[2024-05-24 20:49:41] Debug: Image size out of bounds: CharSet/marin (288x256 < 256x256 < 288x256)
+[2024-05-24 20:49:41] Debug: Image size out of bounds: CharSet/saori (288x256 < 72x128 < 288x256)
+[2024-05-24 20:49:41] Debug: Image size out of bounds: CharSet/saoribaculo (288x256 < 72x128 < 288x256)
+[2024-05-24 20:49:41] Debug: Image size out of bounds: CharSet/shiryu (288x256 < 257x158 < 288x256)
+[2024-05-24 20:49:41] Debug: Image size out of bounds: CharSet/dragonshiryu (288x256 < 257x158 < 288x256)
+[2024-05-24 20:52:26] Debug: Image size out of bounds: CharSet/dragonshiryu (288x256 < 257x158 < 288x256) [11x]
+[2024-05-24 20:52:26] Debug: Image size out of bounds: FaceSet/seiya (192x192 < 195x194 < 192x192)
+[2024-05-24 20:52:28] Debug: Resolution changed to 320x240
+[2024-05-24 20:52:30] Debug: Configuration saved to C:/Users/tfgle/AppData/Roaming/EasyRPG/Player/config.ini
+[2024-05-24 21:01:57] Debug: EasyRPG Player 0.8 (2023-04-29) started
+[2024-05-24 21:01:57] Debug: =======================================
+[2024-05-24 21:01:57] Debug: CLI: 
+[2024-05-24 21:01:57] Debug: Clock: StdSteady steady=true period=ns (1 / 1000000000)
+[2024-05-24 21:01:57] Debug: Seeded the RNG with 1716595316.
+[2024-05-24 21:01:57] Debug: SDL2: RendererInfo hw=true sw=false vsync=true
+[2024-05-24 21:01:57] Debug: SDL2: Detected format (0) SDL_PIXELFORMAT_ARGB8888 : rank=(2)
+[2024-05-24 21:01:57] Debug: SDL2: Selected Pixel Format SDL_PIXELFORMAT_ARGB8888
+[2024-05-24 21:01:57] Debug: Detected encoding: ibm-5348_P100-1997
+[2024-05-24 21:01:57] Debug: Game and Save Directory:
+[2024-05-24 21:01:57] Debug: 1: [Native] 
+[2024-05-24 21:01:57] Debug: Loading game Saint Seiya Collection 2K
+[2024-05-24 21:01:57] Debug: Analyzing RPG_RT RPG_RT.exe
+[2024-05-24 21:01:57] Debug: EXEReader: EXFONT resource found (DE 0xae048; 0xb1484; len 0x2168)
+[2024-05-24 21:01:57] Debug: ExFont loaded from RPG_RT
+[2024-05-24 21:01:57] Debug: EXEReader: VERSIONINFO resource found (DE 0xae2d8; 0xba004; len 0x304)
+[2024-05-24 21:01:57] Debug: RPG_RT information: version=1.6.1.0 logos=1 i386=true easyrpg=false
+[2024-05-24 21:01:57] Debug: Engine configured as: 2k=true 2k3=false MajorUpdated=true Eng=true
+[2024-05-24 21:01:57] Debug: Adding E:\ASCII\RPG2000\RTP to RTP path
+[2024-05-24 21:01:57] Debug: RTP is "Don Miguel English Translation" (500/500)
+[2024-05-24 21:01:57] Debug: Adding E:\Steam\steamapps\common\RPG Maker 2000\RTP to RTP path
+[2024-05-24 21:01:57] Debug: RTP is "Official English" (465/465)
+[2024-05-24 21:01:57] Debug: Patch configuration: dynrpg=false maniac=false key-patch=false common-this=false pic-unlock=false 2k3-commands=false
+[2024-05-24 21:01:57] Debug: Cannot find: Font/Font
+[2024-05-24 21:01:57] Debug: Cannot find: Font/Font2
+[2024-05-24 21:01:58] Debug: Resolution changed to 320x240
+[2024-05-24 21:02:51] Debug: Game uses RTP "Official English"
+[2024-05-24 21:02:51] Debug: Starting new game
+[2024-05-24 21:02:51] Debug: Loaded Map Map0006.lmu
+[2024-05-24 21:02:51] Debug: Tree: _Disclaimer
+[2024-05-24 21:03:06] Debug: Loaded Map Map0001.lmu
+[2024-05-24 21:03:06] Debug: Tree: Test_Room
+[2024-05-24 21:03:06] Debug: Image size out of bounds: CharSet/saoribaculo (288x256 < 72x128 < 288x256)
+[2024-05-24 21:03:27] Debug: Image size out of bounds: FaceSet/sscollection1 (192x192 < 193x192 < 192x192)
+[2024-05-24 21:03:32] Debug: Loaded Map Map0003.lmu
+[2024-05-24 21:03:32] Debug: Tree: Path_to_Rehearsal < Test_Room
+[2024-05-24 21:03:38] Debug: Image size out of bounds: FaceSet/seiya (192x192 < 195x194 < 192x192)
+[2024-05-24 21:03:40] Debug: Resolution changed to 320x240
+[2024-05-24 21:03:43] Debug: Configuration saved to C:/Users/tfgle/AppData/Roaming/EasyRPG/Player/config.ini
+[2024-05-24 21:21:53] Debug: EasyRPG Player 0.8 (2023-04-29) started
+[2024-05-24 21:21:53] Debug: =======================================
+[2024-05-24 21:21:53] Debug: CLI: 
+[2024-05-24 21:21:53] Debug: Clock: StdSteady steady=true period=ns (1 / 1000000000)
+[2024-05-24 21:21:53] Debug: Seeded the RNG with 1716596512.
+[2024-05-24 21:21:53] Debug: SDL2: RendererInfo hw=true sw=false vsync=true
+[2024-05-24 21:21:53] Debug: SDL2: Detected format (0) SDL_PIXELFORMAT_ARGB8888 : rank=(2)
+[2024-05-24 21:21:53] Debug: SDL2: Selected Pixel Format SDL_PIXELFORMAT_ARGB8888
+[2024-05-24 21:21:53] Debug: Detected encoding: ibm-5348_P100-1997
+[2024-05-24 21:21:53] Debug: Game and Save Directory:
+[2024-05-24 21:21:53] Debug: 1: [Native] 
+[2024-05-24 21:21:53] Debug: Loading game Saint Seiya Collection 2K
+[2024-05-24 21:21:53] Debug: Analyzing RPG_RT RPG_RT.exe
+[2024-05-24 21:21:53] Debug: EXEReader: EXFONT resource found (DE 0xae048; 0xb1484; len 0x2168)
+[2024-05-24 21:21:53] Debug: ExFont loaded from RPG_RT
+[2024-05-24 21:21:53] Debug: EXEReader: VERSIONINFO resource found (DE 0xae2d8; 0xba004; len 0x304)
+[2024-05-24 21:21:53] Debug: RPG_RT information: version=1.6.1.0 logos=1 i386=true easyrpg=false
+[2024-05-24 21:21:53] Debug: Engine configured as: 2k=true 2k3=false MajorUpdated=true Eng=true
+[2024-05-24 21:21:53] Debug: Adding E:\ASCII\RPG2000\RTP to RTP path
+[2024-05-24 21:21:53] Debug: RTP is "Don Miguel English Translation" (500/500)
+[2024-05-24 21:21:53] Debug: Adding E:\Steam\steamapps\common\RPG Maker 2000\RTP to RTP path
+[2024-05-24 21:21:53] Debug: RTP is "Official English" (465/465)
+[2024-05-24 21:21:53] Debug: Patch configuration: dynrpg=false maniac=false key-patch=false common-this=false pic-unlock=false 2k3-commands=false
+[2024-05-24 21:21:53] Debug: Cannot find: Font/Font
+[2024-05-24 21:21:53] Debug: Cannot find: Font/Font2
+[2024-05-24 21:21:54] Debug: Resolution changed to 320x240
+[2024-05-24 21:22:33] Debug: Game uses RTP "Official English"
+[2024-05-24 21:22:33] Debug: Starting new game
+[2024-05-24 21:22:33] Debug: Loaded Map Map0006.lmu
+[2024-05-24 21:22:33] Debug: Tree: _Disclaimer
+[2024-05-24 21:22:48] Debug: Loaded Map Map0001.lmu
+[2024-05-24 21:22:48] Debug: Tree: Test_Room
+[2024-05-24 21:22:48] Debug: Image size out of bounds: CharSet/saoribaculo (288x256 < 72x128 < 288x256)
+[2024-05-24 21:22:59] Debug: Image size out of bounds: FaceSet/seiya (192x192 < 195x194 < 192x192)
+[2024-05-24 21:23:04] Debug: Configuration saved to C:/Users/tfgle/AppData/Roaming/EasyRPG/Player/config.ini
+[2024-05-24 21:28:12] Debug: EasyRPG Player 0.8 (2023-04-29) started
+[2024-05-24 21:28:12] Debug: =======================================
+[2024-05-24 21:28:12] Debug: CLI: 
+[2024-05-24 21:28:12] Debug: Clock: StdSteady steady=true period=ns (1 / 1000000000)
+[2024-05-24 21:28:12] Debug: Seeded the RNG with 1716596891.
+[2024-05-24 21:28:12] Debug: SDL2: RendererInfo hw=true sw=false vsync=true
+[2024-05-24 21:28:12] Debug: SDL2: Detected format (0) SDL_PIXELFORMAT_ARGB8888 : rank=(2)
+[2024-05-24 21:28:12] Debug: SDL2: Selected Pixel Format SDL_PIXELFORMAT_ARGB8888
+[2024-05-24 21:28:12] Debug: Detected encoding: ibm-5348_P100-1997
+[2024-05-24 21:28:12] Debug: Game and Save Directory:
+[2024-05-24 21:28:12] Debug: 1: [Native] 
+[2024-05-24 21:28:12] Debug: Loading game Saint Seiya Collection 2K
+[2024-05-24 21:28:12] Debug: Analyzing RPG_RT RPG_RT.exe
+[2024-05-24 21:28:12] Debug: EXEReader: EXFONT resource found (DE 0xae048; 0xb1484; len 0x2168)
+[2024-05-24 21:28:12] Debug: ExFont loaded from RPG_RT
+[2024-05-24 21:28:12] Debug: EXEReader: VERSIONINFO resource found (DE 0xae2d8; 0xba004; len 0x304)
+[2024-05-24 21:28:12] Debug: RPG_RT information: version=1.6.1.0 logos=1 i386=true easyrpg=false
+[2024-05-24 21:28:12] Debug: Engine configured as: 2k=true 2k3=false MajorUpdated=true Eng=true
+[2024-05-24 21:28:12] Debug: Adding E:\ASCII\RPG2000\RTP to RTP path
+[2024-05-24 21:28:12] Debug: RTP is "Don Miguel English Translation" (500/500)
+[2024-05-24 21:28:12] Debug: Adding E:\Steam\steamapps\common\RPG Maker 2000\RTP to RTP path
+[2024-05-24 21:28:12] Debug: RTP is "Official English" (465/465)
+[2024-05-24 21:28:12] Debug: Patch configuration: dynrpg=false maniac=false key-patch=false common-this=false pic-unlock=false 2k3-commands=false
+[2024-05-24 21:28:12] Debug: Cannot find: Font/Font
+[2024-05-24 21:28:12] Debug: Cannot find: Font/Font2
+[2024-05-24 21:28:13] Debug: Resolution changed to 320x240
+[2024-05-24 21:29:25] Debug: Game uses RTP "Official English"
+[2024-05-24 21:29:25] Debug: Starting new game
+[2024-05-24 21:29:25] Debug: Loaded Map Map0006.lmu
+[2024-05-24 21:29:25] Debug: Tree: _Disclaimer
+[2024-05-24 21:29:41] Debug: Loaded Map Map0001.lmu
+[2024-05-24 21:29:41] Debug: Tree: Test_Room
+[2024-05-24 21:29:41] Debug: Image size out of bounds: CharSet/saoribaculo (288x256 < 72x128 < 288x256)
+[2024-05-24 21:29:50] Debug: Image size out of bounds: FaceSet/seiya (192x192 < 195x194 < 192x192)
+[2024-05-24 21:30:09] Debug: Image size out of bounds: FaceSet/sscollection1 (192x192 < 193x192 < 192x192)
+[2024-05-24 21:30:21] Debug: Loaded Map Map0003.lmu
+[2024-05-24 21:30:21] Debug: Tree: Path_to_Rehearsal < Test_Room
+[2024-05-24 21:30:29] Debug: Loaded Map Map0002.lmu
+[2024-05-24 21:30:29] Debug: Tree: Characters_Showcase < Test_Room
+[2024-05-24 21:30:29] Debug: Image size out of bounds: CharSet/blind_dragon (288x256 < 257x158 < 288x256)
+[2024-05-24 21:30:29] Debug: Image size out of bounds: CharSet/cavnegro2 (288x256 < 72x128 < 288x256)
+[2024-05-24 21:30:29] Debug: Image size out of bounds: CharSet/cisnenegro (288x256 < 72x128 < 288x256)
+[2024-05-24 21:30:29] Debug: Image size out of bounds: CharSet/debasaga (288x256 < 256x256 < 288x256)
+[2024-05-24 21:30:29] Debug: Image size out of bounds: CharSet/debasaga (288x256 < 256x256 < 288x256) [2x]
+[2024-05-24 21:30:29] Debug: Image size out of bounds: CharSet/dragonshiryu (288x256 < 257x158 < 288x256)
+[2024-05-24 21:30:29] Debug: Image size out of bounds: CharSet/hyoga2 (288x256 < 72x128 < 288x256)
+[2024-05-24 21:30:29] Debug: Image size out of bounds: CharSet/muad (288x256 < 72x128 < 288x256)
+[2024-05-24 21:30:29] Debug: Image size out of bounds: CharSet/marin (288x256 < 256x256 < 288x256)
+[2024-05-24 21:30:29] Debug: Image size out of bounds: CharSet/saori (288x256 < 72x128 < 288x256)
+[2024-05-24 21:30:29] Debug: Image size out of bounds: CharSet/saoribaculo (288x256 < 72x128 < 288x256)
+[2024-05-24 21:30:29] Debug: Image size out of bounds: CharSet/shiryu (288x256 < 257x158 < 288x256)
+[2024-05-24 21:30:29] Debug: Image size out of bounds: CharSet/dragonshiryu (288x256 < 257x158 < 288x256)
+[2024-05-24 21:33:04] Debug: Image size out of bounds: CharSet/dragonshiryu (288x256 < 257x158 < 288x256) [11x]
+[2024-05-24 21:33:04] Debug: Loaded Map Map0003.lmu
+[2024-05-24 21:33:04] Debug: Tree: Path_to_Rehearsal < Test_Room
+[2024-05-24 21:33:13] Debug: Loaded Map Map0002.lmu
+[2024-05-24 21:33:13] Debug: Tree: Characters_Showcase < Test_Room
+[2024-05-24 21:33:13] Debug: Image size out of bounds: CharSet/blind_dragon (288x256 < 257x158 < 288x256)
+[2024-05-24 21:33:13] Debug: Image size out of bounds: CharSet/cavnegro2 (288x256 < 72x128 < 288x256)
+[2024-05-24 21:33:13] Debug: Image size out of bounds: CharSet/cisnenegro (288x256 < 72x128 < 288x256)
+[2024-05-24 21:33:13] Debug: Image size out of bounds: CharSet/debasaga (288x256 < 256x256 < 288x256)
+[2024-05-24 21:33:13] Debug: Image size out of bounds: CharSet/debasaga (288x256 < 256x256 < 288x256) [2x]
+[2024-05-24 21:33:13] Debug: Image size out of bounds: CharSet/dragonshiryu (288x256 < 257x158 < 288x256)
+[2024-05-24 21:33:13] Debug: Image size out of bounds: CharSet/hyoga2 (288x256 < 72x128 < 288x256)
+[2024-05-24 21:33:13] Debug: Image size out of bounds: CharSet/muad (288x256 < 72x128 < 288x256)
+[2024-05-24 21:33:13] Debug: Image size out of bounds: CharSet/marin (288x256 < 256x256 < 288x256)
+[2024-05-24 21:33:13] Debug: Image size out of bounds: CharSet/saori (288x256 < 72x128 < 288x256)
+[2024-05-24 21:33:13] Debug: Image size out of bounds: CharSet/saoribaculo (288x256 < 72x128 < 288x256)
+[2024-05-24 21:33:13] Debug: Image size out of bounds: CharSet/shiryu (288x256 < 257x158 < 288x256)
+[2024-05-24 21:33:13] Debug: Image size out of bounds: CharSet/dragonshiryu (288x256 < 257x158 < 288x256)
+[2024-05-24 21:33:18] Debug: Image size out of bounds: CharSet/dragonshiryu (288x256 < 257x158 < 288x256) [11x]
+[2024-05-24 21:33:18] Debug: Loaded Map Map0003.lmu
+[2024-05-24 21:33:18] Debug: Tree: Path_to_Rehearsal < Test_Room
+[2024-05-24 21:33:23] Debug: Loaded Map Map0001.lmu
+[2024-05-24 21:33:23] Debug: Tree: Test_Room
+[2024-05-24 21:33:23] Debug: Image size out of bounds: CharSet/saoribaculo (288x256 < 72x128 < 288x256)
+[2024-05-24 21:33:39] Debug: Loaded Map Map0003.lmu
+[2024-05-24 21:33:39] Debug: Tree: Path_to_Rehearsal < Test_Room
+[2024-05-24 21:33:46] Debug: Loaded Map Map0002.lmu
+[2024-05-24 21:33:46] Debug: Tree: Characters_Showcase < Test_Room
+[2024-05-24 21:33:46] Debug: Image size out of bounds: CharSet/blind_dragon (288x256 < 257x158 < 288x256)
+[2024-05-24 21:33:46] Debug: Image size out of bounds: CharSet/cavnegro2 (288x256 < 72x128 < 288x256)
+[2024-05-24 21:33:46] Debug: Image size out of bounds: CharSet/cisnenegro (288x256 < 72x128 < 288x256)
+[2024-05-24 21:33:46] Debug: Image size out of bounds: CharSet/debasaga (288x256 < 256x256 < 288x256)
+[2024-05-24 21:33:46] Debug: Image size out of bounds: CharSet/debasaga (288x256 < 256x256 < 288x256) [2x]
+[2024-05-24 21:33:46] Debug: Image size out of bounds: CharSet/dragonshiryu (288x256 < 257x158 < 288x256)
+[2024-05-24 21:33:46] Debug: Image size out of bounds: CharSet/hyoga2 (288x256 < 72x128 < 288x256)
+[2024-05-24 21:33:46] Debug: Image size out of bounds: CharSet/muad (288x256 < 72x128 < 288x256)
+[2024-05-24 21:33:46] Debug: Image size out of bounds: CharSet/marin (288x256 < 256x256 < 288x256)
+[2024-05-24 21:33:46] Debug: Image size out of bounds: CharSet/saori (288x256 < 72x128 < 288x256)
+[2024-05-24 21:33:46] Debug: Image size out of bounds: CharSet/saoribaculo (288x256 < 72x128 < 288x256)
+[2024-05-24 21:33:46] Debug: Image size out of bounds: CharSet/shiryu (288x256 < 257x158 < 288x256)
+[2024-05-24 21:33:46] Debug: Image size out of bounds: CharSet/dragonshiryu (288x256 < 257x158 < 288x256)
+[2024-05-24 21:33:53] Debug: Image size out of bounds: CharSet/dragonshiryu (288x256 < 257x158 < 288x256) [11x]
+[2024-05-24 21:33:53] Debug: Image size out of bounds: FaceSet/seiya (192x192 < 195x194 < 192x192)
+[2024-05-24 21:34:11] Debug: Image size out of bounds: FaceSet/seiya (192x192 < 195x194 < 192x192) [2x]
+[2024-05-24 21:34:11] Debug: Loaded Map Map0001.lmu
+[2024-05-24 21:34:11] Debug: Tree: Test_Room
+[2024-05-24 21:34:11] Debug: Image size out of bounds: CharSet/saoribaculo (288x256 < 72x128 < 288x256)
+[2024-05-24 21:34:23] Debug: Loaded Map Map0005.lmu
+[2024-05-24 21:34:23] Debug: Tree: The_Toilet < Test_Room
+[2024-05-24 21:35:49] Debug: Loaded Map Map0001.lmu
+[2024-05-24 21:35:49] Debug: Tree: Test_Room
+[2024-05-24 21:35:49] Debug: Image size out of bounds: CharSet/saoribaculo (288x256 < 72x128 < 288x256)
+[2024-05-24 21:36:06] Debug: Configuration saved to C:/Users/tfgle/AppData/Roaming/EasyRPG/Player/config.ini
+[2024-05-24 21:41:24] Debug: EasyRPG Player 0.8 (2023-04-29) started
+[2024-05-24 21:41:24] Debug: =======================================
+[2024-05-24 21:41:24] Debug: CLI: 
+[2024-05-24 21:41:24] Debug: Clock: StdSteady steady=true period=ns (1 / 1000000000)
+[2024-05-24 21:41:24] Debug: Seeded the RNG with 1716597684.
+[2024-05-24 21:41:24] Debug: SDL2: RendererInfo hw=true sw=false vsync=true
+[2024-05-24 21:41:24] Debug: SDL2: Detected format (0) SDL_PIXELFORMAT_ARGB8888 : rank=(2)
+[2024-05-24 21:41:24] Debug: SDL2: Selected Pixel Format SDL_PIXELFORMAT_ARGB8888
+[2024-05-24 21:41:24] Debug: Detected encoding: ibm-5348_P100-1997
+[2024-05-24 21:41:24] Debug: Game and Save Directory:
+[2024-05-24 21:41:24] Debug: 1: [Native] 
+[2024-05-24 21:41:24] Debug: Loading game Saint Seiya Collection 2K
+[2024-05-24 21:41:24] Debug: Analyzing RPG_RT RPG_RT.exe
+[2024-05-24 21:41:24] Debug: EXEReader: EXFONT resource found (DE 0xae048; 0xb1484; len 0x2168)
+[2024-05-24 21:41:24] Debug: ExFont loaded from RPG_RT
+[2024-05-24 21:41:24] Debug: EXEReader: VERSIONINFO resource found (DE 0xae2d8; 0xba004; len 0x304)
+[2024-05-24 21:41:24] Debug: RPG_RT information: version=1.6.1.0 logos=1 i386=true easyrpg=false
+[2024-05-24 21:41:24] Debug: Engine configured as: 2k=true 2k3=false MajorUpdated=true Eng=true
+[2024-05-24 21:41:24] Debug: Adding E:\ASCII\RPG2000\RTP to RTP path
+[2024-05-24 21:41:24] Debug: RTP is "Don Miguel English Translation" (500/500)
+[2024-05-24 21:41:24] Debug: Adding E:\Steam\steamapps\common\RPG Maker 2000\RTP to RTP path
+[2024-05-24 21:41:24] Debug: RTP is "Official English" (465/465)
+[2024-05-24 21:41:24] Debug: Patch configuration: dynrpg=false maniac=false key-patch=false common-this=false pic-unlock=false 2k3-commands=false
+[2024-05-24 21:41:24] Debug: Cannot find: Font/Font
+[2024-05-24 21:41:24] Debug: Cannot find: Font/Font2
+[2024-05-24 21:41:25] Debug: Resolution changed to 320x240
+[2024-05-24 21:41:27] Debug: Game uses RTP "Official English"
+[2024-05-24 21:41:27] Debug: Starting new game
+[2024-05-24 21:41:27] Debug: Loaded Map Map0006.lmu
+[2024-05-24 21:41:27] Debug: Tree: _Disclaimer
+[2024-05-24 21:41:41] Debug: Loaded Map Map0001.lmu
+[2024-05-24 21:41:41] Debug: Tree: Test_Room
+[2024-05-24 21:41:41] Debug: Image size out of bounds: CharSet/saoribaculo (288x256 < 72x128 < 288x256)
+[2024-05-24 21:41:55] Debug: Configuration saved to C:/Users/tfgle/AppData/Roaming/EasyRPG/Player/config.ini
+[2024-05-24 21:50:25] Debug: EasyRPG Player 0.8 (2023-04-29) started
+[2024-05-24 21:50:25] Debug: =======================================
+[2024-05-24 21:50:25] Debug: CLI: 
+[2024-05-24 21:50:25] Debug: Clock: StdSteady steady=true period=ns (1 / 1000000000)
+[2024-05-24 21:50:25] Debug: Seeded the RNG with 1716598225.
+[2024-05-24 21:50:25] Debug: SDL2: RendererInfo hw=true sw=false vsync=true
+[2024-05-24 21:50:25] Debug: SDL2: Detected format (0) SDL_PIXELFORMAT_ARGB8888 : rank=(2)
+[2024-05-24 21:50:25] Debug: SDL2: Selected Pixel Format SDL_PIXELFORMAT_ARGB8888
+[2024-05-24 21:50:25] Debug: Detected encoding: ibm-5348_P100-1997
+[2024-05-24 21:50:25] Debug: Game and Save Directory:
+[2024-05-24 21:50:25] Debug: 1: [Native] 
+[2024-05-24 21:50:25] Debug: Loading game Saint Seiya Collection 2K
+[2024-05-24 21:50:25] Debug: Analyzing RPG_RT RPG_RT.exe
+[2024-05-24 21:50:25] Debug: EXEReader: EXFONT resource found (DE 0xae048; 0xb1484; len 0x2168)
+[2024-05-24 21:50:25] Debug: ExFont loaded from RPG_RT
+[2024-05-24 21:50:25] Debug: EXEReader: VERSIONINFO resource found (DE 0xae2d8; 0xba004; len 0x304)
+[2024-05-24 21:50:25] Debug: RPG_RT information: version=1.6.1.0 logos=1 i386=true easyrpg=false
+[2024-05-24 21:50:25] Debug: Engine configured as: 2k=true 2k3=false MajorUpdated=true Eng=true
+[2024-05-24 21:50:25] Debug: Adding E:\ASCII\RPG2000\RTP to RTP path
+[2024-05-24 21:50:25] Debug: RTP is "Don Miguel English Translation" (500/500)
+[2024-05-24 21:50:25] Debug: Adding E:\Steam\steamapps\common\RPG Maker 2000\RTP to RTP path
+[2024-05-24 21:50:25] Debug: RTP is "Official English" (465/465)
+[2024-05-24 21:50:25] Debug: Patch configuration: dynrpg=false maniac=false key-patch=false common-this=false pic-unlock=false 2k3-commands=false
+[2024-05-24 21:50:25] Debug: Cannot find: Font/Font
+[2024-05-24 21:50:25] Debug: Cannot find: Font/Font2
+[2024-05-24 21:50:26] Debug: Resolution changed to 320x240
+[2024-05-24 21:50:45] Debug: Game uses RTP "Official English"
+[2024-05-24 21:50:45] Debug: Starting new game
+[2024-05-24 21:50:45] Debug: Loaded Map Map0006.lmu
+[2024-05-24 21:50:45] Debug: Tree: _Disclaimer
+[2024-05-24 21:52:25] Debug: Loaded Map Map0001.lmu
+[2024-05-24 21:52:25] Debug: Tree: Test_Room
+[2024-05-24 21:52:25] Debug: Image size out of bounds: CharSet/saoribaculo (288x256 < 72x128 < 288x256)
+[2024-05-24 21:52:53] Debug: Image size out of bounds: FaceSet/sscollection1 (192x192 < 193x192 < 192x192)
+[2024-05-24 21:52:59] Debug: Image size out of bounds: FaceSet/sscollection1 (192x192 < 193x192 < 192x192) [2x]
+[2024-05-24 21:52:59] Debug: Loaded Map Map0003.lmu
+[2024-05-24 21:52:59] Debug: Tree: Path_to_Rehearsal < Test_Room
+[2024-05-24 21:53:06] Debug: Loaded Map Map0002.lmu
+[2024-05-24 21:53:06] Debug: Tree: Characters_Showcase < Test_Room
+[2024-05-24 21:53:06] Debug: Image size out of bounds: CharSet/blind_dragon (288x256 < 257x158 < 288x256)
+[2024-05-24 21:53:06] Debug: Image size out of bounds: CharSet/cavnegro2 (288x256 < 72x128 < 288x256)
+[2024-05-24 21:53:06] Debug: Image size out of bounds: CharSet/cisnenegro (288x256 < 72x128 < 288x256)
+[2024-05-24 21:53:06] Debug: Image size out of bounds: CharSet/debasaga (288x256 < 256x256 < 288x256)
+[2024-05-24 21:53:06] Debug: Image size out of bounds: CharSet/debasaga (288x256 < 256x256 < 288x256) [2x]
+[2024-05-24 21:53:06] Debug: Image size out of bounds: CharSet/dragonshiryu (288x256 < 257x158 < 288x256)
+[2024-05-24 21:53:06] Debug: Image size out of bounds: CharSet/hyoga2 (288x256 < 72x128 < 288x256)
+[2024-05-24 21:53:06] Debug: Image size out of bounds: CharSet/muad (288x256 < 72x128 < 288x256)
+[2024-05-24 21:53:06] Debug: Image size out of bounds: CharSet/marin (288x256 < 256x256 < 288x256)
+[2024-05-24 21:53:06] Debug: Image size out of bounds: CharSet/saori (288x256 < 72x128 < 288x256)
+[2024-05-24 21:53:06] Debug: Image size out of bounds: CharSet/saoribaculo (288x256 < 72x128 < 288x256)
+[2024-05-24 21:53:06] Debug: Image size out of bounds: CharSet/shiryu (288x256 < 257x158 < 288x256)
+[2024-05-24 21:53:06] Debug: Image size out of bounds: CharSet/dragonshiryu (288x256 < 257x158 < 288x256)
+[2024-05-24 21:53:13] Debug: Image size out of bounds: CharSet/dragonshiryu (288x256 < 257x158 < 288x256) [11x]
+[2024-05-24 21:53:13] Debug: Image size out of bounds: FaceSet/seiya (192x192 < 195x194 < 192x192)
+[2024-05-24 21:53:25] Debug: Image size out of bounds: FaceSet/seiya (192x192 < 195x194 < 192x192) [2x]
+[2024-05-24 21:53:25] Debug: Loaded Map Map0001.lmu
+[2024-05-24 21:53:25] Debug: Tree: Test_Room
+[2024-05-24 21:53:25] Debug: Image size out of bounds: CharSet/saoribaculo (288x256 < 72x128 < 288x256)
+[2024-05-24 21:53:37] Debug: Loaded Map Map0005.lmu
+[2024-05-24 21:53:37] Debug: Tree: The_Toilet < Test_Room
+[2024-05-24 21:53:46] Debug: Configuration saved to C:/Users/tfgle/AppData/Roaming/EasyRPG/Player/config.ini
+[2024-05-24 21:54:30] Debug: EasyRPG Player 0.8 (2023-04-29) started
+[2024-05-24 21:54:30] Debug: =======================================
+[2024-05-24 21:54:30] Debug: CLI: 
+[2024-05-24 21:54:30] Debug: Clock: StdSteady steady=true period=ns (1 / 1000000000)
+[2024-05-24 21:54:30] Debug: Seeded the RNG with 1716598470.
+[2024-05-24 21:54:30] Debug: SDL2: RendererInfo hw=true sw=false vsync=true
+[2024-05-24 21:54:30] Debug: SDL2: Detected format (0) SDL_PIXELFORMAT_ARGB8888 : rank=(2)
+[2024-05-24 21:54:30] Debug: SDL2: Selected Pixel Format SDL_PIXELFORMAT_ARGB8888
+[2024-05-24 21:54:30] Debug: Detected encoding: ibm-5348_P100-1997
+[2024-05-24 21:54:30] Debug: Game and Save Directory:
+[2024-05-24 21:54:30] Debug: 1: [Native] 
+[2024-05-24 21:54:31] Debug: Loading game Saint Seiya Collection 2K
+[2024-05-24 21:54:31] Debug: Analyzing RPG_RT RPG_RT.exe
+[2024-05-24 21:54:31] Debug: EXEReader: EXFONT resource found (DE 0xae048; 0xb1484; len 0x2168)
+[2024-05-24 21:54:31] Debug: ExFont loaded from RPG_RT
+[2024-05-24 21:54:31] Debug: EXEReader: VERSIONINFO resource found (DE 0xae2d8; 0xba004; len 0x304)
+[2024-05-24 21:54:31] Debug: RPG_RT information: version=1.6.1.0 logos=1 i386=true easyrpg=false
+[2024-05-24 21:54:31] Debug: Engine configured as: 2k=true 2k3=false MajorUpdated=true Eng=true
+[2024-05-24 21:54:31] Debug: Adding E:\ASCII\RPG2000\RTP to RTP path
+[2024-05-24 21:54:31] Debug: RTP is "Don Miguel English Translation" (500/500)
+[2024-05-24 21:54:31] Debug: Adding E:\Steam\steamapps\common\RPG Maker 2000\RTP to RTP path
+[2024-05-24 21:54:31] Debug: RTP is "Official English" (465/465)
+[2024-05-24 21:54:31] Debug: Patch configuration: dynrpg=false maniac=false key-patch=false common-this=false pic-unlock=false 2k3-commands=false
+[2024-05-24 21:54:31] Debug: Cannot find: Font/Font
+[2024-05-24 21:54:31] Debug: Cannot find: Font/Font2
+[2024-05-24 21:54:32] Debug: Resolution changed to 320x240
+[2024-05-24 21:54:33] Debug: Image size out of bounds: FaceSet/seiya (192x192 < 195x194 < 192x192)
+[2024-05-24 21:54:33] Debug: Image size out of bounds: FaceSet/sscollection5 (192x192 < 193x193 < 192x192)
+[2024-05-24 21:54:33] Debug: Image size out of bounds: FaceSet/seiya (192x192 < 195x194 < 192x192)
+[2024-05-24 21:54:33] Debug: Image size out of bounds: FaceSet/sscollection5 (192x192 < 193x193 < 192x192)
+[2024-05-24 21:54:34] Debug: Loading Save Save01.lsd
+[2024-05-24 21:54:34] Debug: Savegame version 800 (EasyRPG Player 0.8.0)
+[2024-05-24 21:54:34] Debug: Loaded Map Map0002.lmu
+[2024-05-24 21:54:34] Debug: Tree: Characters_Showcase < Test_Room
+[2024-05-24 21:54:35] Debug: Image size out of bounds: CharSet/blind_dragon (288x256 < 257x158 < 288x256)
+[2024-05-24 21:54:35] Debug: Image size out of bounds: CharSet/cavnegro2 (288x256 < 72x128 < 288x256)
+[2024-05-24 21:54:35] Debug: Image size out of bounds: CharSet/cisnenegro (288x256 < 72x128 < 288x256)
+[2024-05-24 21:54:35] Debug: Image size out of bounds: CharSet/debasaga (288x256 < 256x256 < 288x256)
+[2024-05-24 21:54:35] Debug: Image size out of bounds: CharSet/debasaga (288x256 < 256x256 < 288x256) [2x]
+[2024-05-24 21:54:35] Debug: Image size out of bounds: CharSet/dragonshiryu (288x256 < 257x158 < 288x256)
+[2024-05-24 21:54:35] Debug: Image size out of bounds: CharSet/hyoga2 (288x256 < 72x128 < 288x256)
+[2024-05-24 21:54:35] Debug: Image size out of bounds: CharSet/muad (288x256 < 72x128 < 288x256)
+[2024-05-24 21:54:35] Debug: Image size out of bounds: CharSet/marin (288x256 < 256x256 < 288x256)
+[2024-05-24 21:54:35] Debug: Image size out of bounds: CharSet/saori (288x256 < 72x128 < 288x256)
+[2024-05-24 21:54:35] Debug: Image size out of bounds: CharSet/saoribaculo (288x256 < 72x128 < 288x256)
+[2024-05-24 21:54:35] Debug: Image size out of bounds: CharSet/shiryu (288x256 < 257x158 < 288x256)
+[2024-05-24 21:54:35] Debug: Image size out of bounds: CharSet/dragonshiryu (288x256 < 257x158 < 288x256)
+[2024-05-24 21:54:41] Debug: Image size out of bounds: CharSet/dragonshiryu (288x256 < 257x158 < 288x256) [11x]
+[2024-05-24 21:54:41] Debug: Image size out of bounds: FaceSet/seiya (192x192 < 195x194 < 192x192)
+[2024-05-24 21:54:42] Debug: Game uses RTP "Official English"
+[2024-05-24 21:54:44] Debug: Loaded Map Map0001.lmu
+[2024-05-24 21:54:44] Debug: Tree: Test_Room
+[2024-05-24 21:54:44] Debug: Image size out of bounds: CharSet/saoribaculo (288x256 < 72x128 < 288x256)
+[2024-05-24 21:54:59] Debug: Loaded Map Map0003.lmu
+[2024-05-24 21:54:59] Debug: Tree: Path_to_Rehearsal < Test_Room
+[2024-05-24 21:55:06] Debug: Loaded Map Map0002.lmu
+[2024-05-24 21:55:06] Debug: Tree: Characters_Showcase < Test_Room
+[2024-05-24 21:55:06] Debug: Image size out of bounds: CharSet/blind_dragon (288x256 < 257x158 < 288x256)
+[2024-05-24 21:55:06] Debug: Image size out of bounds: CharSet/cavnegro2 (288x256 < 72x128 < 288x256)
+[2024-05-24 21:55:06] Debug: Image size out of bounds: CharSet/cisnenegro (288x256 < 72x128 < 288x256)
+[2024-05-24 21:55:06] Debug: Image size out of bounds: CharSet/debasaga (288x256 < 256x256 < 288x256)
+[2024-05-24 21:55:06] Debug: Image size out of bounds: CharSet/debasaga (288x256 < 256x256 < 288x256) [2x]
+[2024-05-24 21:55:06] Debug: Image size out of bounds: CharSet/dragonshiryu (288x256 < 257x158 < 288x256)
+[2024-05-24 21:55:06] Debug: Image size out of bounds: CharSet/hyoga2 (288x256 < 72x128 < 288x256)
+[2024-05-24 21:55:06] Debug: Image size out of bounds: CharSet/muad (288x256 < 72x128 < 288x256)
+[2024-05-24 21:55:06] Debug: Image size out of bounds: CharSet/marin (288x256 < 256x256 < 288x256)
+[2024-05-24 21:55:06] Debug: Image size out of bounds: CharSet/saori (288x256 < 72x128 < 288x256)
+[2024-05-24 21:55:06] Debug: Image size out of bounds: CharSet/saoribaculo (288x256 < 72x128 < 288x256)
+[2024-05-24 21:55:06] Debug: Image size out of bounds: CharSet/shiryu (288x256 < 257x158 < 288x256)
+[2024-05-24 21:55:06] Debug: Image size out of bounds: CharSet/dragonshiryu (288x256 < 257x158 < 288x256)
+[2024-05-24 21:55:12] Debug: Image size out of bounds: CharSet/dragonshiryu (288x256 < 257x158 < 288x256) [11x]
+[2024-05-24 21:55:12] Debug: Image size out of bounds: FaceSet/seiya (192x192 < 195x194 < 192x192)
+[2024-05-24 21:55:24] Debug: Image size out of bounds: FaceSet/seiya (192x192 < 195x194 < 192x192) [2x]
+[2024-05-24 21:55:24] Debug: Loaded Map Map0001.lmu
+[2024-05-24 21:55:24] Debug: Tree: Test_Room
+[2024-05-24 21:55:24] Debug: Image size out of bounds: CharSet/saoribaculo (288x256 < 72x128 < 288x256)
+[2024-05-24 21:55:36] Debug: Loaded Map Map0005.lmu
+[2024-05-24 21:55:36] Debug: Tree: The_Toilet < Test_Room
+[2024-05-24 22:18:20] Debug: Configuration saved to C:/Users/tfgle/AppData/Roaming/EasyRPG/Player/config.ini
+[2024-05-24 22:18:49] Debug: EasyRPG Player 0.8 (2023-04-29) started
+[2024-05-24 22:18:49] Debug: =======================================
+[2024-05-24 22:18:49] Debug: CLI: 
+[2024-05-24 22:18:49] Debug: Clock: StdSteady steady=true period=ns (1 / 1000000000)
+[2024-05-24 22:18:49] Debug: Seeded the RNG with 1716599929.
+[2024-05-24 22:18:49] Debug: SDL2: RendererInfo hw=true sw=false vsync=true
+[2024-05-24 22:18:49] Debug: SDL2: Detected format (0) SDL_PIXELFORMAT_ARGB8888 : rank=(2)
+[2024-05-24 22:18:49] Debug: SDL2: Selected Pixel Format SDL_PIXELFORMAT_ARGB8888
+[2024-05-24 22:18:49] Debug: Detected encoding: ibm-5348_P100-1997
+[2024-05-24 22:18:49] Debug: Game and Save Directory:
+[2024-05-24 22:18:49] Debug: 1: [Native] 
+[2024-05-24 22:18:49] Debug: Loading game Saint Seiya Collection 2K
+[2024-05-24 22:18:49] Debug: Analyzing RPG_RT RPG_RT.exe
+[2024-05-24 22:18:49] Debug: EXEReader: EXFONT resource found (DE 0xae048; 0xb1484; len 0x2168)
+[2024-05-24 22:18:49] Debug: ExFont loaded from RPG_RT
+[2024-05-24 22:18:49] Debug: EXEReader: VERSIONINFO resource found (DE 0xae2d8; 0xba004; len 0x304)
+[2024-05-24 22:18:49] Debug: RPG_RT information: version=1.6.1.0 logos=1 i386=true easyrpg=false
+[2024-05-24 22:18:49] Debug: Engine configured as: 2k=true 2k3=false MajorUpdated=true Eng=true
+[2024-05-24 22:18:49] Debug: Adding E:\ASCII\RPG2000\RTP to RTP path
+[2024-05-24 22:18:49] Debug: RTP is "Don Miguel English Translation" (500/500)
+[2024-05-24 22:18:49] Debug: Adding E:\Steam\steamapps\common\RPG Maker 2000\RTP to RTP path
+[2024-05-24 22:18:49] Debug: RTP is "Official English" (465/465)
+[2024-05-24 22:18:49] Debug: Patch configuration: dynrpg=false maniac=false key-patch=false common-this=false pic-unlock=false 2k3-commands=false
+[2024-05-24 22:18:49] Debug: Cannot find: Font/Font
+[2024-05-24 22:18:49] Debug: Cannot find: Font/Font2
+[2024-05-24 22:18:50] Debug: Resolution changed to 320x240
+[2024-05-24 22:18:53] Debug: Game uses RTP "Official English"
+[2024-05-24 22:18:54] Debug: Starting new game
+[2024-05-24 22:18:54] Debug: Loaded Map Map0006.lmu
+[2024-05-24 22:18:54] Debug: Tree: _Disclaimer
+[2024-05-24 22:22:27] Debug: Loaded Map Map0001.lmu
+[2024-05-24 22:22:27] Debug: Tree: Test_Room
+[2024-05-24 22:22:27] Debug: Image size out of bounds: CharSet/saoribaculo (288x256 < 72x128 < 288x256)
+[2024-05-24 22:22:30] Debug: Image size out of bounds: FaceSet/sscollection1 (192x192 < 193x192 < 192x192)
+[2024-05-24 22:22:37] Debug: Loaded Map Map0003.lmu
+[2024-05-24 22:22:37] Debug: Tree: Path_to_Rehearsal < Test_Room
+[2024-05-24 22:22:44] Debug: Loaded Map Map0001.lmu
+[2024-05-24 22:22:44] Debug: Tree: Test_Room
+[2024-05-24 22:22:44] Debug: Image size out of bounds: CharSet/saoribaculo (288x256 < 72x128 < 288x256)
+[2024-05-24 22:23:03] Debug: Loaded Map Map0003.lmu
+[2024-05-24 22:23:03] Debug: Tree: Path_to_Rehearsal < Test_Room
+[2024-05-24 22:23:10] Debug: Loaded Map Map0002.lmu
+[2024-05-24 22:23:10] Debug: Tree: Characters_Showcase < Test_Room
+[2024-05-24 22:23:10] Debug: Image size out of bounds: CharSet/blind_dragon (288x256 < 257x158 < 288x256)
+[2024-05-24 22:23:10] Debug: Image size out of bounds: CharSet/cavnegro2 (288x256 < 72x128 < 288x256)
+[2024-05-24 22:23:10] Debug: Image size out of bounds: CharSet/cisnenegro (288x256 < 72x128 < 288x256)
+[2024-05-24 22:23:10] Debug: Image size out of bounds: CharSet/debasaga (288x256 < 256x256 < 288x256)
+[2024-05-24 22:23:10] Debug: Image size out of bounds: CharSet/debasaga (288x256 < 256x256 < 288x256) [2x]
+[2024-05-24 22:23:10] Debug: Image size out of bounds: CharSet/dragonshiryu (288x256 < 257x158 < 288x256)
+[2024-05-24 22:23:10] Debug: Image size out of bounds: CharSet/hyoga2 (288x256 < 72x128 < 288x256)
+[2024-05-24 22:23:10] Debug: Image size out of bounds: CharSet/muad (288x256 < 72x128 < 288x256)
+[2024-05-24 22:23:10] Debug: Image size out of bounds: CharSet/marin (288x256 < 256x256 < 288x256)
+[2024-05-24 22:23:10] Debug: Image size out of bounds: CharSet/saori (288x256 < 72x128 < 288x256)
+[2024-05-24 22:23:10] Debug: Image size out of bounds: CharSet/saoribaculo (288x256 < 72x128 < 288x256)
+[2024-05-24 22:23:10] Debug: Image size out of bounds: CharSet/shiryu (288x256 < 257x158 < 288x256)
+[2024-05-24 22:23:10] Debug: Image size out of bounds: CharSet/dragonshiryu (288x256 < 257x158 < 288x256)
+[2024-05-24 22:23:17] Debug: Image size out of bounds: CharSet/dragonshiryu (288x256 < 257x158 < 288x256) [11x]
+[2024-05-24 22:23:17] Debug: Image size out of bounds: FaceSet/seiya (192x192 < 195x194 < 192x192)
+[2024-05-24 22:23:26] Debug: Loaded Map Map0003.lmu
+[2024-05-24 22:23:26] Debug: Tree: Path_to_Rehearsal < Test_Room
+[2024-05-24 22:23:32] Debug: Loaded Map Map0001.lmu
+[2024-05-24 22:23:32] Debug: Tree: Test_Room
+[2024-05-24 22:23:32] Debug: Image size out of bounds: CharSet/saoribaculo (288x256 < 72x128 < 288x256)
+[2024-05-24 22:23:44] Debug: Loaded Map Map0005.lmu
+[2024-05-24 22:23:44] Debug: Tree: The_Toilet < Test_Room
+[2024-05-24 22:24:03] Debug: Cannot find: Sound/SE_Pup
+[2024-05-24 22:24:03] Debug: Sound not found: SE_Pup
+[2024-05-24 22:24:03] Debug: Cannot find: Sound/SE_Pup
+[2024-05-24 22:24:03] Debug: Sound not found: SE_Pup
+[2024-05-24 22:24:04] Debug: Cannot find: Sound/SE_Pup
+[2024-05-24 22:24:04] Debug: Sound not found: SE_Pup
+[2024-05-24 22:25:31] Debug: Loaded Map Map0001.lmu
+[2024-05-24 22:25:31] Debug: Tree: Test_Room
+[2024-05-24 22:25:31] Debug: Image size out of bounds: CharSet/saoribaculo (288x256 < 72x128 < 288x256)
+[2024-05-24 22:25:50] Debug: Loaded Map Map0003.lmu
+[2024-05-24 22:25:50] Debug: Tree: Path_to_Rehearsal < Test_Room
+[2024-05-24 22:25:58] Debug: Loaded Map Map0002.lmu
+[2024-05-24 22:25:58] Debug: Tree: Characters_Showcase < Test_Room
+[2024-05-24 22:25:58] Debug: Image size out of bounds: CharSet/blind_dragon (288x256 < 257x158 < 288x256)
+[2024-05-24 22:25:58] Debug: Image size out of bounds: CharSet/cavnegro2 (288x256 < 72x128 < 288x256)
+[2024-05-24 22:25:58] Debug: Image size out of bounds: CharSet/cisnenegro (288x256 < 72x128 < 288x256)
+[2024-05-24 22:25:58] Debug: Image size out of bounds: CharSet/debasaga (288x256 < 256x256 < 288x256)
+[2024-05-24 22:25:58] Debug: Image size out of bounds: CharSet/debasaga (288x256 < 256x256 < 288x256) [2x]
+[2024-05-24 22:25:58] Debug: Image size out of bounds: CharSet/dragonshiryu (288x256 < 257x158 < 288x256)
+[2024-05-24 22:25:58] Debug: Image size out of bounds: CharSet/hyoga2 (288x256 < 72x128 < 288x256)
+[2024-05-24 22:25:58] Debug: Image size out of bounds: CharSet/muad (288x256 < 72x128 < 288x256)
+[2024-05-24 22:25:58] Debug: Image size out of bounds: CharSet/marin (288x256 < 256x256 < 288x256)
+[2024-05-24 22:25:58] Debug: Image size out of bounds: CharSet/saori (288x256 < 72x128 < 288x256)
+[2024-05-24 22:25:58] Debug: Image size out of bounds: CharSet/saoribaculo (288x256 < 72x128 < 288x256)
+[2024-05-24 22:25:58] Debug: Image size out of bounds: CharSet/shiryu (288x256 < 257x158 < 288x256)
+[2024-05-24 22:25:58] Debug: Image size out of bounds: CharSet/dragonshiryu (288x256 < 257x158 < 288x256)
+[2024-05-24 22:26:08] Debug: Image size out of bounds: CharSet/dragonshiryu (288x256 < 257x158 < 288x256) [11x]
+[2024-05-24 22:26:08] Debug: Image size out of bounds: FaceSet/seiya (192x192 < 195x194 < 192x192)
+[2024-05-24 22:26:11] Debug: Image size out of bounds: FaceSet/seiya (192x192 < 195x194 < 192x192) [2x]
+[2024-05-24 22:26:11] Debug: Image size out of bounds: FaceSet/sscollection5 (192x192 < 193x193 < 192x192)
+[2024-05-24 22:26:11] Debug: Image size out of bounds: FaceSet/seiya (192x192 < 195x194 < 192x192)
+[2024-05-24 22:26:11] Debug: Image size out of bounds: FaceSet/sscollection5 (192x192 < 193x193 < 192x192)
+[2024-05-24 22:26:11] Debug: Image size out of bounds: FaceSet/seiya (192x192 < 195x194 < 192x192)
+[2024-05-24 22:26:11] Debug: Image size out of bounds: FaceSet/sscollection5 (192x192 < 193x193 < 192x192)
+[2024-05-24 22:26:12] Debug: Saving to Save01.lsd
+[2024-05-24 22:26:12] Debug: Image size out of bounds: FaceSet/seiya (192x192 < 195x194 < 192x192)
+[2024-05-24 22:26:13] Debug: Image size out of bounds: FaceSet/seiya (192x192 < 195x194 < 192x192) [2x]
+[2024-05-24 22:26:13] Debug: Image size out of bounds: FaceSet/sscollection5 (192x192 < 193x193 < 192x192)
+[2024-05-24 22:26:13] Debug: Image size out of bounds: FaceSet/seiya (192x192 < 195x194 < 192x192)
+[2024-05-24 22:26:13] Debug: Image size out of bounds: FaceSet/sscollection5 (192x192 < 193x193 < 192x192)
+[2024-05-24 22:26:13] Debug: Image size out of bounds: FaceSet/seiya (192x192 < 195x194 < 192x192)
+[2024-05-24 22:26:13] Debug: Image size out of bounds: FaceSet/sscollection5 (192x192 < 193x193 < 192x192)
+[2024-05-24 22:26:14] Debug: Saving to Save01.lsd
+[2024-05-24 22:26:14] Debug: Image size out of bounds: FaceSet/seiya (192x192 < 195x194 < 192x192)
+[2024-05-25 00:19:29] Debug: Loaded Map Map0003.lmu
+[2024-05-25 00:19:29] Debug: Tree: Path_to_Rehearsal < Test_Room
+[2024-05-25 00:19:39] Debug: Loaded Map Map0002.lmu
+[2024-05-25 00:19:39] Debug: Tree: Characters_Showcase < Test_Room
+[2024-05-25 00:19:39] Debug: Image size out of bounds: CharSet/blind_dragon (288x256 < 257x158 < 288x256)
+[2024-05-25 00:19:39] Debug: Image size out of bounds: CharSet/cavnegro2 (288x256 < 72x128 < 288x256)
+[2024-05-25 00:19:39] Debug: Image size out of bounds: CharSet/cisnenegro (288x256 < 72x128 < 288x256)
+[2024-05-25 00:19:39] Debug: Image size out of bounds: CharSet/debasaga (288x256 < 256x256 < 288x256)
+[2024-05-25 00:19:39] Debug: Image size out of bounds: CharSet/debasaga (288x256 < 256x256 < 288x256) [2x]
+[2024-05-25 00:19:39] Debug: Image size out of bounds: CharSet/dragonshiryu (288x256 < 257x158 < 288x256)
+[2024-05-25 00:19:39] Debug: Image size out of bounds: CharSet/hyoga2 (288x256 < 72x128 < 288x256)
+[2024-05-25 00:19:39] Debug: Image size out of bounds: CharSet/muad (288x256 < 72x128 < 288x256)
+[2024-05-25 00:19:39] Debug: Image size out of bounds: CharSet/marin (288x256 < 256x256 < 288x256)
+[2024-05-25 00:19:39] Debug: Image size out of bounds: CharSet/saori (288x256 < 72x128 < 288x256)
+[2024-05-25 00:19:39] Debug: Image size out of bounds: CharSet/saoribaculo (288x256 < 72x128 < 288x256)
+[2024-05-25 00:19:39] Debug: Image size out of bounds: CharSet/shiryu (288x256 < 257x158 < 288x256)
+[2024-05-25 00:19:39] Debug: Image size out of bounds: CharSet/dragonshiryu (288x256 < 257x158 < 288x256)
+[2024-05-25 00:19:53] Debug: Image size out of bounds: CharSet/dragonshiryu (288x256 < 257x158 < 288x256) [11x]
+[2024-05-25 00:19:53] Debug: Loaded Map Map0003.lmu
+[2024-05-25 00:19:53] Debug: Tree: Path_to_Rehearsal < Test_Room
+[2024-05-25 00:19:59] Debug: Loaded Map Map0001.lmu
+[2024-05-25 00:19:59] Debug: Tree: Test_Room
+[2024-05-25 00:19:59] Debug: Image size out of bounds: CharSet/saoribaculo (288x256 < 72x128 < 288x256)
+[2024-05-25 00:20:14] Debug: Loaded Map Map0005.lmu
+[2024-05-25 00:20:14] Debug: Tree: The_Toilet < Test_Room
+[2024-05-25 00:22:36] Debug: Loaded Map Map0001.lmu
+[2024-05-25 00:22:36] Debug: Tree: Test_Room
+[2024-05-25 00:22:36] Debug: Image size out of bounds: CharSet/saoribaculo (288x256 < 72x128 < 288x256)
+[2024-05-25 00:22:42] Debug: Image size out of bounds: FaceSet/seiya (192x192 < 195x194 < 192x192)
+[2024-05-25 00:23:21] Debug: Loaded Map Map0003.lmu
+[2024-05-25 00:23:21] Debug: Tree: Path_to_Rehearsal < Test_Room
+[2024-05-25 00:23:38] Debug: Loaded Map Map0002.lmu
+[2024-05-25 00:23:38] Debug: Tree: Characters_Showcase < Test_Room
+[2024-05-25 00:23:38] Debug: Image size out of bounds: CharSet/blind_dragon (288x256 < 257x158 < 288x256)
+[2024-05-25 00:23:38] Debug: Image size out of bounds: CharSet/cavnegro2 (288x256 < 72x128 < 288x256)
+[2024-05-25 00:23:38] Debug: Image size out of bounds: CharSet/cisnenegro (288x256 < 72x128 < 288x256)
+[2024-05-25 00:23:38] Debug: Image size out of bounds: CharSet/debasaga (288x256 < 256x256 < 288x256)
+[2024-05-25 00:23:38] Debug: Image size out of bounds: CharSet/debasaga (288x256 < 256x256 < 288x256) [2x]
+[2024-05-25 00:23:38] Debug: Image size out of bounds: CharSet/dragonshiryu (288x256 < 257x158 < 288x256)
+[2024-05-25 00:23:38] Debug: Image size out of bounds: CharSet/hyoga2 (288x256 < 72x128 < 288x256)
+[2024-05-25 00:23:38] Debug: Image size out of bounds: CharSet/muad (288x256 < 72x128 < 288x256)
+[2024-05-25 00:23:38] Debug: Image size out of bounds: CharSet/marin (288x256 < 256x256 < 288x256)
+[2024-05-25 00:23:38] Debug: Image size out of bounds: CharSet/saori (288x256 < 72x128 < 288x256)
+[2024-05-25 00:23:38] Debug: Image size out of bounds: CharSet/saoribaculo (288x256 < 72x128 < 288x256)
+[2024-05-25 00:23:38] Debug: Image size out of bounds: CharSet/shiryu (288x256 < 257x158 < 288x256)
+[2024-05-25 00:23:38] Debug: Image size out of bounds: CharSet/dragonshiryu (288x256 < 257x158 < 288x256)
+[2024-05-25 00:24:17] Debug: Image size out of bounds: CharSet/dragonshiryu (288x256 < 257x158 < 288x256) [11x]
+[2024-05-25 00:24:17] Debug: Image size out of bounds: FaceSet/seiya (192x192 < 195x194 < 192x192)
+[2024-05-25 00:24:23] Debug: Image size out of bounds: FaceSet/seiya (192x192 < 195x194 < 192x192) [3x]
+[2024-05-25 00:24:23] Debug: Resolution changed to 320x240
+[2024-05-25 00:24:28] Debug: Configuration saved to C:/Users/tfgle/AppData/Roaming/EasyRPG/Player/config.ini
+[2024-05-27 17:24:49] Debug: EasyRPG Player 0.8 (2023-04-29) started
+[2024-05-27 17:24:49] Debug: =======================================
+[2024-05-27 17:24:49] Debug: CLI: 
+[2024-05-27 17:24:49] Debug: Clock: StdSteady steady=true period=ns (1 / 1000000000)
+[2024-05-27 17:24:49] Debug: Seeded the RNG with 1716841489.
+[2024-05-27 17:24:49] Debug: SDL2: RendererInfo hw=true sw=false vsync=true
+[2024-05-27 17:24:49] Debug: SDL2: Detected format (0) SDL_PIXELFORMAT_ARGB8888 : rank=(2)
+[2024-05-27 17:24:49] Debug: SDL2: Selected Pixel Format SDL_PIXELFORMAT_ARGB8888
+[2024-05-27 17:24:49] Debug: Detected encoding: ibm-5348_P100-1997
+[2024-05-27 17:24:49] Debug: Game and Save Directory:
+[2024-05-27 17:24:49] Debug: 1: [Native] 
+[2024-05-27 17:24:49] Debug: Loading game Saint Seiya Collection 2K
+[2024-05-27 17:24:49] Debug: Analyzing RPG_RT RPG_RT.exe
+[2024-05-27 17:24:49] Debug: EXEReader: EXFONT resource found (DE 0xae048; 0xb1484; len 0x2168)
+[2024-05-27 17:24:49] Debug: ExFont loaded from RPG_RT
+[2024-05-27 17:24:49] Debug: EXEReader: VERSIONINFO resource found (DE 0xae2d8; 0xba004; len 0x304)
+[2024-05-27 17:24:49] Debug: RPG_RT information: version=1.6.1.0 logos=1 i386=true easyrpg=false
+[2024-05-27 17:24:49] Debug: Engine configured as: 2k=true 2k3=false MajorUpdated=true Eng=true
+[2024-05-27 17:24:49] Debug: Adding E:\ASCII\RPG2000\RTP to RTP path
+[2024-05-27 17:24:50] Debug: RTP is "Don Miguel English Translation" (500/500)
+[2024-05-27 17:24:50] Debug: Adding E:\Steam\steamapps\common\RPG Maker 2000\RTP to RTP path
+[2024-05-27 17:24:50] Debug: RTP is "Official English" (465/465)
+[2024-05-27 17:24:50] Debug: Patch configuration: dynrpg=false maniac=false key-patch=false common-this=false pic-unlock=false 2k3-commands=false
+[2024-05-27 17:24:50] Debug: Cannot find: Font/Font
+[2024-05-27 17:24:50] Debug: Cannot find: Font/Font2
+[2024-05-27 17:24:51] Debug: Resolution changed to 320x240
+[2024-05-27 17:24:54] Debug: Game uses RTP "Official English"
+[2024-05-27 17:24:56] Debug: Starting new game
+[2024-05-27 17:24:56] Debug: Loaded Map Map0006.lmu
+[2024-05-27 17:24:56] Debug: Tree: _Disclaimer
+[2024-05-27 17:25:14] Debug: Loaded Map Map0001.lmu
+[2024-05-27 17:25:14] Debug: Tree: Test_Room
+[2024-05-27 17:25:14] Debug: Image size out of bounds: CharSet/saoribaculo (288x256 < 72x128 < 288x256)
+[2024-05-27 17:25:37] Debug: Image size out of bounds: FaceSet/sscollection1 (192x192 < 193x192 < 192x192)
+[2024-05-27 17:26:43] Debug: Image size out of bounds: FaceSet/sscollection1 (192x192 < 193x192 < 192x192) [3x]
+[2024-05-27 17:26:43] Debug: Loaded Map Map0003.lmu
+[2024-05-27 17:26:43] Debug: Tree: Path_to_Rehearsal < Test_Room
+[2024-05-27 17:27:03] Debug: Loaded Map Map0002.lmu
+[2024-05-27 17:27:03] Debug: Tree: Characters_Showcase < Test_Room
+[2024-05-27 17:27:03] Debug: Image size out of bounds: CharSet/blind_dragon (288x256 < 257x158 < 288x256)
+[2024-05-27 17:27:03] Debug: Image size out of bounds: CharSet/cavnegro2 (288x256 < 72x128 < 288x256)
+[2024-05-27 17:27:03] Debug: Image size out of bounds: CharSet/cisnenegro (288x256 < 72x128 < 288x256)
+[2024-05-27 17:27:03] Debug: Image size out of bounds: CharSet/debasaga (288x256 < 256x256 < 288x256)
+[2024-05-27 17:27:04] Debug: Image size out of bounds: CharSet/debasaga (288x256 < 256x256 < 288x256) [2x]
+[2024-05-27 17:27:04] Debug: Image size out of bounds: CharSet/dragonshiryu (288x256 < 257x158 < 288x256)
+[2024-05-27 17:27:04] Debug: Image size out of bounds: CharSet/hyoga2 (288x256 < 72x128 < 288x256)
+[2024-05-27 17:27:04] Debug: Image size out of bounds: CharSet/muad (288x256 < 72x128 < 288x256)
+[2024-05-27 17:27:04] Debug: Image size out of bounds: CharSet/marin (288x256 < 256x256 < 288x256)
+[2024-05-27 17:27:04] Debug: Image size out of bounds: CharSet/saori (288x256 < 72x128 < 288x256)
+[2024-05-27 17:27:04] Debug: Image size out of bounds: CharSet/saoribaculo (288x256 < 72x128 < 288x256)
+[2024-05-27 17:27:04] Debug: Image size out of bounds: CharSet/shiryu (288x256 < 257x158 < 288x256)
+[2024-05-27 17:27:04] Debug: Image size out of bounds: CharSet/dragonshiryu (288x256 < 257x158 < 288x256)
+[2024-05-27 17:55:44] Debug: Image size out of bounds: CharSet/dragonshiryu (288x256 < 257x158 < 288x256) [11x]
+[2024-05-27 17:55:44] Debug: Loaded Map Map0003.lmu
+[2024-05-27 17:55:44] Debug: Tree: Path_to_Rehearsal < Test_Room
+[2024-05-27 17:55:50] Debug: Loaded Map Map0001.lmu
+[2024-05-27 17:55:50] Debug: Tree: Test_Room
+[2024-05-27 17:55:50] Debug: Image size out of bounds: CharSet/saoribaculo (288x256 < 72x128 < 288x256)
+[2024-05-27 17:56:02] Debug: Loaded Map Map0003.lmu
+[2024-05-27 17:56:02] Debug: Tree: Path_to_Rehearsal < Test_Room
+[2024-05-27 17:56:08] Debug: Loaded Map Map0002.lmu
+[2024-05-27 17:56:08] Debug: Tree: Characters_Showcase < Test_Room
+[2024-05-27 17:56:08] Debug: Image size out of bounds: CharSet/blind_dragon (288x256 < 257x158 < 288x256)
+[2024-05-27 17:56:08] Debug: Image size out of bounds: CharSet/cavnegro2 (288x256 < 72x128 < 288x256)
+[2024-05-27 17:56:08] Debug: Image size out of bounds: CharSet/cisnenegro (288x256 < 72x128 < 288x256)
+[2024-05-27 17:56:08] Debug: Image size out of bounds: CharSet/debasaga (288x256 < 256x256 < 288x256)
+[2024-05-27 17:56:08] Debug: Image size out of bounds: CharSet/debasaga (288x256 < 256x256 < 288x256) [2x]
+[2024-05-27 17:56:08] Debug: Image size out of bounds: CharSet/dragonshiryu (288x256 < 257x158 < 288x256)
+[2024-05-27 17:56:08] Debug: Image size out of bounds: CharSet/hyoga2 (288x256 < 72x128 < 288x256)
+[2024-05-27 17:56:08] Debug: Image size out of bounds: CharSet/muad (288x256 < 72x128 < 288x256)
+[2024-05-27 17:56:08] Debug: Image size out of bounds: CharSet/marin (288x256 < 256x256 < 288x256)
+[2024-05-27 17:56:08] Debug: Image size out of bounds: CharSet/saori (288x256 < 72x128 < 288x256)
+[2024-05-27 17:56:08] Debug: Image size out of bounds: CharSet/saoribaculo (288x256 < 72x128 < 288x256)
+[2024-05-27 17:56:08] Debug: Image size out of bounds: CharSet/shiryu (288x256 < 257x158 < 288x256)
+[2024-05-27 17:56:08] Debug: Image size out of bounds: CharSet/dragonshiryu (288x256 < 257x158 < 288x256)
+[2024-05-27 17:56:14] Debug: Image size out of bounds: CharSet/dragonshiryu (288x256 < 257x158 < 288x256) [11x]
+[2024-05-27 17:56:14] Debug: Image size out of bounds: FaceSet/seiya (192x192 < 195x194 < 192x192)
+[2024-05-27 17:56:24] Debug: Loaded Map Map0003.lmu
+[2024-05-27 17:56:24] Debug: Tree: Path_to_Rehearsal < Test_Room
+[2024-05-27 17:56:29] Debug: Loaded Map Map0001.lmu
+[2024-05-27 17:56:29] Debug: Tree: Test_Room
+[2024-05-27 17:56:29] Debug: Image size out of bounds: CharSet/saoribaculo (288x256 < 72x128 < 288x256)
+[2024-05-27 17:56:38] Debug: Loaded Map Map0005.lmu
+[2024-05-27 17:56:38] Debug: Tree: The_Toilet < Test_Room
+[2024-05-27 18:03:47] Debug: Cannot find: Sound/SE_Pup
+[2024-05-27 18:03:47] Debug: Sound not found: SE_Pup
+[2024-05-27 18:03:48] Debug: Cannot find: Sound/SE_Pup
+[2024-05-27 18:03:48] Debug: Sound not found: SE_Pup
+[2024-05-27 18:03:48] Debug: Cannot find: Sound/SE_Pup
+[2024-05-27 18:03:48] Debug: Sound not found: SE_Pup
+[2024-05-27 18:04:36] Debug: Loaded Map Map0001.lmu
+[2024-05-27 18:04:36] Debug: Tree: Test_Room
+[2024-05-27 18:04:37] Debug: Image size out of bounds: CharSet/saoribaculo (288x256 < 72x128 < 288x256)
+[2024-05-27 18:04:43] Debug: Loaded Map Map0003.lmu
+[2024-05-27 18:04:43] Debug: Tree: Path_to_Rehearsal < Test_Room
+[2024-05-27 18:04:46] Debug: Image size out of bounds: FaceSet/seiya (192x192 < 195x194 < 192x192)
+[2024-05-27 18:04:48] Debug: Resolution changed to 320x240
+[2024-05-27 18:04:50] Debug: Configuration saved to C:/Users/tfgle/AppData/Roaming/EasyRPG/Player/config.ini
+[2024-05-27 21:11:18] Debug: EasyRPG Player 0.8 (2023-04-29) started
+[2024-05-27 21:11:18] Debug: =======================================
+[2024-05-27 21:11:18] Debug: CLI: 
+[2024-05-27 21:11:18] Debug: Clock: StdSteady steady=true period=ns (1 / 1000000000)
+[2024-05-27 21:11:18] Debug: Seeded the RNG with 1716855078.
+[2024-05-27 21:11:18] Debug: SDL2: RendererInfo hw=true sw=false vsync=true
+[2024-05-27 21:11:18] Debug: SDL2: Detected format (0) SDL_PIXELFORMAT_ARGB8888 : rank=(2)
+[2024-05-27 21:11:18] Debug: SDL2: Selected Pixel Format SDL_PIXELFORMAT_ARGB8888
+[2024-05-27 21:11:18] Debug: Detected encoding: ibm-5348_P100-1997
+[2024-05-27 21:11:18] Debug: Game and Save Directory:
+[2024-05-27 21:11:18] Debug: 1: [Native] 
+[2024-05-27 21:11:18] Debug: Loading game Saint Seiya Collection 2K
+[2024-05-27 21:11:18] Debug: Analyzing RPG_RT RPG_RT.exe
+[2024-05-27 21:11:18] Debug: EXEReader: EXFONT resource found (DE 0xae048; 0xb1484; len 0x2168)
+[2024-05-27 21:11:18] Debug: ExFont loaded from RPG_RT
+[2024-05-27 21:11:18] Debug: EXEReader: VERSIONINFO resource found (DE 0xae2d8; 0xba004; len 0x304)
+[2024-05-27 21:11:18] Debug: RPG_RT information: version=1.6.1.0 logos=1 i386=true easyrpg=false
+[2024-05-27 21:11:18] Debug: Engine configured as: 2k=true 2k3=false MajorUpdated=true Eng=true
+[2024-05-27 21:11:18] Debug: Adding E:\ASCII\RPG2000\RTP to RTP path
+[2024-05-27 21:11:18] Debug: RTP is "Don Miguel English Translation" (500/500)
+[2024-05-27 21:11:18] Debug: Adding E:\Steam\steamapps\common\RPG Maker 2000\RTP to RTP path
+[2024-05-27 21:11:18] Debug: RTP is "Official English" (465/465)
+[2024-05-27 21:11:18] Debug: Patch configuration: dynrpg=false maniac=false key-patch=false common-this=false pic-unlock=false 2k3-commands=false
+[2024-05-27 21:11:18] Debug: Cannot find: Font/Font
+[2024-05-27 21:11:18] Debug: Cannot find: Font/Font2
+[2024-05-27 21:11:19] Debug: Resolution changed to 320x240
+[2024-05-27 21:11:21] Debug: Image size out of bounds: FaceSet/seiya (192x192 < 195x194 < 192x192)
+[2024-05-27 21:11:21] Debug: Image size out of bounds: FaceSet/sscollection5 (192x192 < 193x193 < 192x192)
+[2024-05-27 21:11:21] Debug: Image size out of bounds: FaceSet/seiya (192x192 < 195x194 < 192x192)
+[2024-05-27 21:11:21] Debug: Image size out of bounds: FaceSet/sscollection5 (192x192 < 193x193 < 192x192)
+[2024-05-27 21:11:21] Debug: Loading Save Save01.lsd
+[2024-05-27 21:11:21] Debug: Savegame version 800 (EasyRPG Player 0.8.0)
+[2024-05-27 21:11:21] Debug: Loaded Map Map0002.lmu
+[2024-05-27 21:11:21] Debug: Tree: Characters_Showcase < Test_Room
+[2024-05-27 21:11:23] Debug: Image size out of bounds: CharSet/blind_dragon (288x256 < 257x158 < 288x256)
+[2024-05-27 21:11:23] Debug: Image size out of bounds: CharSet/cavnegro2 (288x256 < 72x128 < 288x256)
+[2024-05-27 21:11:23] Debug: Image size out of bounds: CharSet/cisnenegro (288x256 < 72x128 < 288x256)
+[2024-05-27 21:11:23] Debug: Image size out of bounds: CharSet/debasaga (288x256 < 256x256 < 288x256)
+[2024-05-27 21:11:23] Debug: Image size out of bounds: CharSet/debasaga (288x256 < 256x256 < 288x256) [2x]
+[2024-05-27 21:11:23] Debug: Image size out of bounds: CharSet/dragonshiryu (288x256 < 257x158 < 288x256)
+[2024-05-27 21:11:23] Debug: Image size out of bounds: CharSet/hyoga2 (288x256 < 72x128 < 288x256)
+[2024-05-27 21:11:23] Debug: Image size out of bounds: CharSet/muad (288x256 < 72x128 < 288x256)
+[2024-05-27 21:11:23] Debug: Image size out of bounds: CharSet/marin (288x256 < 256x256 < 288x256)
+[2024-05-27 21:11:23] Debug: Image size out of bounds: CharSet/saori (288x256 < 72x128 < 288x256)
+[2024-05-27 21:11:23] Debug: Image size out of bounds: CharSet/saoribaculo (288x256 < 72x128 < 288x256)
+[2024-05-27 21:11:23] Debug: Image size out of bounds: CharSet/shiryu (288x256 < 257x158 < 288x256)
+[2024-05-27 21:11:23] Debug: Image size out of bounds: CharSet/dragonshiryu (288x256 < 257x158 < 288x256)
+[2024-05-27 21:11:28] Debug: Image size out of bounds: CharSet/dragonshiryu (288x256 < 257x158 < 288x256) [11x]
+[2024-05-27 21:11:28] Debug: Loaded Map Map0003.lmu
+[2024-05-27 21:11:28] Debug: Tree: Path_to_Rehearsal < Test_Room
+[2024-05-27 21:11:34] Debug: Loaded Map Map0001.lmu
+[2024-05-27 21:11:34] Debug: Tree: Test_Room
+[2024-05-27 21:11:34] Debug: Image size out of bounds: CharSet/saoribaculo (288x256 < 72x128 < 288x256)
+[2024-05-27 21:11:41] Debug: libpng: iCCP: known incorrect sRGB profile
+[2024-05-27 21:11:41] Debug: Loaded Map Map0005.lmu
+[2024-05-27 21:11:41] Debug: Tree: The_Toilet < Test_Room
+[2024-05-27 21:12:14] Debug: Configuration saved to C:/Users/tfgle/AppData/Roaming/EasyRPG/Player/config.ini
+[2024-06-02 16:07:26] Debug: EasyRPG Player 0.8 (2023-04-29) started
+[2024-06-02 16:07:26] Debug: =======================================
+[2024-06-02 16:07:26] Debug: CLI: 
+[2024-06-02 16:07:26] Debug: Clock: StdSteady steady=true period=ns (1 / 1000000000)
+[2024-06-02 16:07:26] Debug: Seeded the RNG with 1717355246.
+[2024-06-02 16:07:26] Debug: SDL2: RendererInfo hw=true sw=false vsync=true
+[2024-06-02 16:07:26] Debug: SDL2: Detected format (0) SDL_PIXELFORMAT_ARGB8888 : rank=(2)
+[2024-06-02 16:07:26] Debug: SDL2: Selected Pixel Format SDL_PIXELFORMAT_ARGB8888
+[2024-06-02 16:07:26] Debug: Detected encoding: ibm-5348_P100-1997
+[2024-06-02 16:07:26] Debug: Game and Save Directory:
+[2024-06-02 16:07:26] Debug: 1: [Native] 
+[2024-06-02 16:07:26] Debug: Loading game Saint Seiya Collection 2K
+[2024-06-02 16:07:26] Debug: Analyzing RPG_RT RPG_RT.exe
+[2024-06-02 16:07:26] Debug: EXEReader: EXFONT resource found (DE 0xae048; 0xb1484; len 0x2168)
+[2024-06-02 16:07:26] Debug: ExFont loaded from RPG_RT
+[2024-06-02 16:07:26] Debug: EXEReader: VERSIONINFO resource found (DE 0xae2d8; 0xba004; len 0x304)
+[2024-06-02 16:07:26] Debug: RPG_RT information: version=1.6.1.0 logos=1 i386=true easyrpg=false
+[2024-06-02 16:07:26] Debug: Engine configured as: 2k=true 2k3=false MajorUpdated=true Eng=true
+[2024-06-02 16:07:26] Debug: Adding E:\ASCII\RPG2000\RTP to RTP path
+[2024-06-02 16:07:27] Debug: RTP is "Don Miguel English Translation" (500/500)
+[2024-06-02 16:07:27] Debug: Adding E:\Steam\steamapps\common\RPG Maker 2000\RTP to RTP path
+[2024-06-02 16:07:27] Debug: RTP is "Official English" (465/465)
+[2024-06-02 16:07:27] Debug: Patch configuration: dynrpg=false maniac=false key-patch=false common-this=false pic-unlock=false 2k3-commands=false
+[2024-06-02 16:07:27] Debug: Cannot find: Font/Font
+[2024-06-02 16:07:27] Debug: Cannot find: Font/Font2
+[2024-06-02 16:07:27] Debug: Resolution changed to 320x240
+[2024-06-02 16:07:29] Debug: Game uses RTP "Official English"
+[2024-06-02 16:07:29] Debug: Starting new game
+[2024-06-02 16:07:29] Debug: Loaded Map Map0006.lmu
+[2024-06-02 16:07:29] Debug: Tree: _Disclaimer
+[2024-06-02 16:07:47] Debug: Loaded Map Map0001.lmu
+[2024-06-02 16:07:47] Debug: Tree: Test_Room
+[2024-06-02 16:07:47] Debug: Image size out of bounds: CharSet/saoribaculo (288x256 < 72x128 < 288x256)
+[2024-06-02 16:07:51] Debug: Image size out of bounds: FaceSet/sscollection1 (192x192 < 193x192 < 192x192)
+[2024-06-02 16:08:10] Debug: Loaded Map Map0003.lmu
+[2024-06-02 16:08:10] Debug: Tree: Path_to_Rehearsal < Test_Room
+[2024-06-02 16:08:51] Debug: Loaded Map Map0002.lmu
+[2024-06-02 16:08:51] Debug: Tree: Characters_Showcase < Test_Room
+[2024-06-02 16:08:51] Debug: Image size out of bounds: CharSet/blind_dragon (288x256 < 257x158 < 288x256)
+[2024-06-02 16:08:51] Debug: Image size out of bounds: CharSet/cavnegro2 (288x256 < 72x128 < 288x256)
+[2024-06-02 16:08:51] Debug: Image size out of bounds: CharSet/cisnenegro (288x256 < 72x128 < 288x256)
+[2024-06-02 16:08:51] Debug: Image size out of bounds: CharSet/debasaga (288x256 < 256x256 < 288x256)
+[2024-06-02 16:08:51] Debug: Image size out of bounds: CharSet/debasaga (288x256 < 256x256 < 288x256) [2x]
+[2024-06-02 16:08:51] Debug: Image size out of bounds: CharSet/dragonshiryu (288x256 < 257x158 < 288x256)
+[2024-06-02 16:08:51] Debug: Image size out of bounds: CharSet/hyoga2 (288x256 < 72x128 < 288x256)
+[2024-06-02 16:08:51] Debug: Image size out of bounds: CharSet/muad (288x256 < 72x128 < 288x256)
+[2024-06-02 16:08:51] Debug: Image size out of bounds: CharSet/marin (288x256 < 256x256 < 288x256)
+[2024-06-02 16:08:51] Debug: Image size out of bounds: CharSet/saori (288x256 < 72x128 < 288x256)
+[2024-06-02 16:08:51] Debug: Image size out of bounds: CharSet/saoribaculo (288x256 < 72x128 < 288x256)
+[2024-06-02 16:08:51] Debug: Image size out of bounds: CharSet/shiryu (288x256 < 257x158 < 288x256)
+[2024-06-02 16:08:51] Debug: Image size out of bounds: CharSet/dragonshiryu (288x256 < 257x158 < 288x256)
+[2024-06-02 16:09:01] Debug: Image size out of bounds: CharSet/dragonshiryu (288x256 < 257x158 < 288x256) [11x]
+[2024-06-02 16:09:01] Debug: Image size out of bounds: FaceSet/seiya (192x192 < 195x194 < 192x192)
+[2024-06-02 16:12:42] Debug: Configuration saved to C:/Users/tfgle/AppData/Roaming/EasyRPG/Player/config.ini
+[2024-06-02 16:15:21] Debug: EasyRPG Player 0.8 (2023-04-29) started
+[2024-06-02 16:15:21] Debug: =======================================
+[2024-06-02 16:15:21] Debug: CLI: 
+[2024-06-02 16:15:21] Debug: Clock: StdSteady steady=true period=ns (1 / 1000000000)
+[2024-06-02 16:15:21] Debug: Seeded the RNG with 1717355721.
+[2024-06-02 16:15:21] Debug: SDL2: RendererInfo hw=true sw=false vsync=true
+[2024-06-02 16:15:21] Debug: SDL2: Detected format (0) SDL_PIXELFORMAT_ARGB8888 : rank=(2)
+[2024-06-02 16:15:21] Debug: SDL2: Selected Pixel Format SDL_PIXELFORMAT_ARGB8888
+[2024-06-02 16:15:21] Debug: Detected encoding: ibm-5348_P100-1997
+[2024-06-02 16:15:21] Debug: Game and Save Directory:
+[2024-06-02 16:15:21] Debug: 1: [Native] 
+[2024-06-02 16:15:21] Debug: Loading game Saint Seiya Collection 2K
+[2024-06-02 16:15:21] Debug: Analyzing RPG_RT RPG_RT.exe
+[2024-06-02 16:15:21] Debug: EXEReader: EXFONT resource found (DE 0xae048; 0xb1484; len 0x2168)
+[2024-06-02 16:15:21] Debug: ExFont loaded from RPG_RT
+[2024-06-02 16:15:21] Debug: EXEReader: VERSIONINFO resource found (DE 0xae2d8; 0xba004; len 0x304)
+[2024-06-02 16:15:21] Debug: RPG_RT information: version=1.6.1.0 logos=1 i386=true easyrpg=false
+[2024-06-02 16:15:21] Debug: Engine configured as: 2k=true 2k3=false MajorUpdated=true Eng=true
+[2024-06-02 16:15:21] Debug: Adding E:\ASCII\RPG2000\RTP to RTP path
+[2024-06-02 16:15:21] Debug: RTP is "Don Miguel English Translation" (500/500)
+[2024-06-02 16:15:21] Debug: Adding E:\Steam\steamapps\common\RPG Maker 2000\RTP to RTP path
+[2024-06-02 16:15:21] Debug: RTP is "Official English" (465/465)
+[2024-06-02 16:15:21] Debug: Patch configuration: dynrpg=false maniac=false key-patch=false common-this=false pic-unlock=false 2k3-commands=false
+[2024-06-02 16:15:21] Debug: Cannot find: Font/Font
+[2024-06-02 16:15:21] Debug: Cannot find: Font/Font2
+[2024-06-02 16:15:22] Debug: Resolution changed to 320x240
+[2024-06-02 16:15:24] Debug: Game uses RTP "Official English"
+[2024-06-02 16:15:24] Debug: Starting new game
+[2024-06-02 16:15:24] Debug: Loaded Map Map0006.lmu
+[2024-06-02 16:15:24] Debug: Tree: _Disclaimer
+[2024-06-02 16:15:40] Debug: Loaded Map Map0001.lmu
+[2024-06-02 16:15:40] Debug: Tree: Test_Room
+[2024-06-02 16:15:40] Debug: Image size out of bounds: CharSet/saoribaculo (288x256 < 72x128 < 288x256)
+[2024-06-02 16:15:43] Debug: Image size out of bounds: FaceSet/sscollection1 (192x192 < 193x192 < 192x192)
+[2024-06-02 16:15:59] Debug: Loaded Map Map0003.lmu
+[2024-06-02 16:15:59] Debug: Tree: Path_to_Rehearsal < Test_Room
+[2024-06-02 16:16:05] Debug: Loaded Map Map0002.lmu
+[2024-06-02 16:16:05] Debug: Tree: Characters_Showcase < Test_Room
+[2024-06-02 16:16:05] Debug: Image size out of bounds: CharSet/blind_dragon (288x256 < 257x158 < 288x256)
+[2024-06-02 16:16:05] Debug: Image size out of bounds: CharSet/cavnegro2 (288x256 < 72x128 < 288x256)
+[2024-06-02 16:16:05] Debug: Image size out of bounds: CharSet/cisnenegro (288x256 < 72x128 < 288x256)
+[2024-06-02 16:16:05] Debug: Image size out of bounds: CharSet/debasaga (288x256 < 256x256 < 288x256)
+[2024-06-02 16:16:05] Debug: Image size out of bounds: CharSet/debasaga (288x256 < 256x256 < 288x256) [2x]
+[2024-06-02 16:16:05] Debug: Image size out of bounds: CharSet/dragonshiryu (288x256 < 257x158 < 288x256)
+[2024-06-02 16:16:05] Debug: Image size out of bounds: CharSet/hyoga2 (288x256 < 72x128 < 288x256)
+[2024-06-02 16:16:05] Debug: Image size out of bounds: CharSet/muad (288x256 < 72x128 < 288x256)
+[2024-06-02 16:16:05] Debug: Image size out of bounds: CharSet/marin (288x256 < 256x256 < 288x256)
+[2024-06-02 16:16:05] Debug: Image size out of bounds: CharSet/saori (288x256 < 72x128 < 288x256)
+[2024-06-02 16:16:05] Debug: Image size out of bounds: CharSet/saoribaculo (288x256 < 72x128 < 288x256)
+[2024-06-02 16:16:05] Debug: Image size out of bounds: CharSet/shiryu (288x256 < 257x158 < 288x256)
+[2024-06-02 16:16:05] Debug: Image size out of bounds: CharSet/dragonshiryu (288x256 < 257x158 < 288x256)
+[2024-06-02 16:16:11] Debug: Image size out of bounds: CharSet/dragonshiryu (288x256 < 257x158 < 288x256) [11x]
+[2024-06-02 16:16:11] Debug: Image size out of bounds: FaceSet/seiya (192x192 < 195x194 < 192x192)
+[2024-06-02 16:16:28] Debug: Configuration saved to C:/Users/tfgle/AppData/Roaming/EasyRPG/Player/config.ini
+[2024-06-02 16:17:28] Debug: EasyRPG Player 0.8 (2023-04-29) started
+[2024-06-02 16:17:28] Debug: =======================================
+[2024-06-02 16:17:28] Debug: CLI: 
+[2024-06-02 16:17:28] Debug: Clock: StdSteady steady=true period=ns (1 / 1000000000)
+[2024-06-02 16:17:28] Debug: Seeded the RNG with 1717355848.
+[2024-06-02 16:17:28] Debug: SDL2: RendererInfo hw=true sw=false vsync=true
+[2024-06-02 16:17:28] Debug: SDL2: Detected format (0) SDL_PIXELFORMAT_ARGB8888 : rank=(2)
+[2024-06-02 16:17:28] Debug: SDL2: Selected Pixel Format SDL_PIXELFORMAT_ARGB8888
+[2024-06-02 16:17:28] Debug: Detected encoding: ibm-5348_P100-1997
+[2024-06-02 16:17:28] Debug: Game and Save Directory:
+[2024-06-02 16:17:28] Debug: 1: [Native] 
+[2024-06-02 16:17:28] Debug: Loading game Saint Seiya Collection 2K
+[2024-06-02 16:17:28] Debug: Analyzing RPG_RT RPG_RT.exe
+[2024-06-02 16:17:28] Debug: EXEReader: EXFONT resource found (DE 0xae048; 0xb1484; len 0x2168)
+[2024-06-02 16:17:28] Debug: ExFont loaded from RPG_RT
+[2024-06-02 16:17:28] Debug: EXEReader: VERSIONINFO resource found (DE 0xae2d8; 0xba004; len 0x304)
+[2024-06-02 16:17:28] Debug: RPG_RT information: version=1.6.1.0 logos=1 i386=true easyrpg=false
+[2024-06-02 16:17:28] Debug: Engine configured as: 2k=true 2k3=false MajorUpdated=true Eng=true
+[2024-06-02 16:17:28] Debug: Adding E:\ASCII\RPG2000\RTP to RTP path
+[2024-06-02 16:17:28] Debug: RTP is "Don Miguel English Translation" (500/500)
+[2024-06-02 16:17:28] Debug: Adding E:\Steam\steamapps\common\RPG Maker 2000\RTP to RTP path
+[2024-06-02 16:17:28] Debug: RTP is "Official English" (465/465)
+[2024-06-02 16:17:28] Debug: Patch configuration: dynrpg=false maniac=false key-patch=false common-this=false pic-unlock=false 2k3-commands=false
+[2024-06-02 16:17:28] Debug: Cannot find: Font/Font
+[2024-06-02 16:17:28] Debug: Cannot find: Font/Font2
+[2024-06-02 16:17:29] Debug: Resolution changed to 320x240
+[2024-06-02 16:17:31] Debug: Game uses RTP "Official English"
+[2024-06-02 16:17:31] Debug: Starting new game
+[2024-06-02 16:17:31] Debug: Loaded Map Map0006.lmu
+[2024-06-02 16:17:31] Debug: Tree: _Disclaimer
+[2024-06-02 16:17:47] Debug: Loaded Map Map0001.lmu
+[2024-06-02 16:17:47] Debug: Tree: Test_Room
+[2024-06-02 16:17:47] Debug: Image size out of bounds: CharSet/saoribaculo (288x256 < 72x128 < 288x256)
+[2024-06-02 16:17:52] Debug: Image size out of bounds: FaceSet/sscollection1 (192x192 < 193x192 < 192x192)
+[2024-06-02 16:18:06] Debug: Loaded Map Map0003.lmu
+[2024-06-02 16:18:06] Debug: Tree: Path_to_Rehearsal < Test_Room
+[2024-06-02 16:18:13] Debug: Loaded Map Map0002.lmu
+[2024-06-02 16:18:13] Debug: Tree: Characters_Showcase < Test_Room
+[2024-06-02 16:18:13] Debug: Image size out of bounds: CharSet/blind_dragon (288x256 < 257x158 < 288x256)
+[2024-06-02 16:18:13] Debug: Image size out of bounds: CharSet/cavnegro2 (288x256 < 72x128 < 288x256)
+[2024-06-02 16:18:13] Debug: Image size out of bounds: CharSet/cisnenegro (288x256 < 72x128 < 288x256)
+[2024-06-02 16:18:13] Debug: Image size out of bounds: CharSet/debasaga (288x256 < 256x256 < 288x256)
+[2024-06-02 16:18:13] Debug: Image size out of bounds: CharSet/debasaga (288x256 < 256x256 < 288x256) [2x]
+[2024-06-02 16:18:13] Debug: Image size out of bounds: CharSet/dragonshiryu (288x256 < 257x158 < 288x256)
+[2024-06-02 16:18:13] Debug: Image size out of bounds: CharSet/hyoga2 (288x256 < 72x128 < 288x256)
+[2024-06-02 16:18:13] Debug: Image size out of bounds: CharSet/muad (288x256 < 72x128 < 288x256)
+[2024-06-02 16:18:13] Debug: Image size out of bounds: CharSet/marin (288x256 < 256x256 < 288x256)
+[2024-06-02 16:18:13] Debug: Image size out of bounds: CharSet/saori (288x256 < 72x128 < 288x256)
+[2024-06-02 16:18:13] Debug: Image size out of bounds: CharSet/saoribaculo (288x256 < 72x128 < 288x256)
+[2024-06-02 16:18:13] Debug: Image size out of bounds: CharSet/shiryu (288x256 < 257x158 < 288x256)
+[2024-06-02 16:18:13] Debug: Image size out of bounds: CharSet/dragonshiryu (288x256 < 257x158 < 288x256)
+[2024-06-02 16:18:18] Debug: Image size out of bounds: CharSet/dragonshiryu (288x256 < 257x158 < 288x256) [11x]
+[2024-06-02 16:18:18] Debug: Image size out of bounds: FaceSet/seiya (192x192 < 195x194 < 192x192)
+[2024-06-02 16:18:35] Debug: Configuration saved to C:/Users/tfgle/AppData/Roaming/EasyRPG/Player/config.ini
+[2024-06-02 16:19:13] Debug: EasyRPG Player 0.8 (2023-04-29) started
+[2024-06-02 16:19:13] Debug: =======================================
+[2024-06-02 16:19:13] Debug: CLI: 
+[2024-06-02 16:19:13] Debug: Clock: StdSteady steady=true period=ns (1 / 1000000000)
+[2024-06-02 16:19:13] Debug: Seeded the RNG with 1717355952.
+[2024-06-02 16:19:13] Debug: SDL2: RendererInfo hw=true sw=false vsync=true
+[2024-06-02 16:19:13] Debug: SDL2: Detected format (0) SDL_PIXELFORMAT_ARGB8888 : rank=(2)
+[2024-06-02 16:19:13] Debug: SDL2: Selected Pixel Format SDL_PIXELFORMAT_ARGB8888
+[2024-06-02 16:19:13] Debug: Detected encoding: ibm-5348_P100-1997
+[2024-06-02 16:19:13] Debug: Game and Save Directory:
+[2024-06-02 16:19:13] Debug: 1: [Native] 
+[2024-06-02 16:19:13] Debug: Loading game Saint Seiya Collection 2K
+[2024-06-02 16:19:13] Debug: Analyzing RPG_RT RPG_RT.exe
+[2024-06-02 16:19:13] Debug: EXEReader: EXFONT resource found (DE 0xae048; 0xb1484; len 0x2168)
+[2024-06-02 16:19:13] Debug: ExFont loaded from RPG_RT
+[2024-06-02 16:19:13] Debug: EXEReader: VERSIONINFO resource found (DE 0xae2d8; 0xba004; len 0x304)
+[2024-06-02 16:19:13] Debug: RPG_RT information: version=1.6.1.0 logos=1 i386=true easyrpg=false
+[2024-06-02 16:19:13] Debug: Engine configured as: 2k=true 2k3=false MajorUpdated=true Eng=true
+[2024-06-02 16:19:13] Debug: Adding E:\ASCII\RPG2000\RTP to RTP path
+[2024-06-02 16:19:13] Debug: RTP is "Don Miguel English Translation" (500/500)
+[2024-06-02 16:19:13] Debug: Adding E:\Steam\steamapps\common\RPG Maker 2000\RTP to RTP path
+[2024-06-02 16:19:13] Debug: RTP is "Official English" (465/465)
+[2024-06-02 16:19:13] Debug: Patch configuration: dynrpg=false maniac=false key-patch=false common-this=false pic-unlock=false 2k3-commands=false
+[2024-06-02 16:19:13] Debug: Cannot find: Font/Font
+[2024-06-02 16:19:13] Debug: Cannot find: Font/Font2
+[2024-06-02 16:19:14] Debug: Resolution changed to 320x240
+[2024-06-02 16:19:15] Debug: Game uses RTP "Official English"
+[2024-06-02 16:19:15] Debug: Starting new game
+[2024-06-02 16:19:15] Debug: Loaded Map Map0006.lmu
+[2024-06-02 16:19:15] Debug: Tree: _Disclaimer
+[2024-06-02 16:19:30] Debug: Loaded Map Map0001.lmu
+[2024-06-02 16:19:30] Debug: Tree: Test_Room
+[2024-06-02 16:19:30] Debug: Image size out of bounds: CharSet/saoribaculo (288x256 < 72x128 < 288x256)
+[2024-06-02 16:19:34] Debug: Image size out of bounds: FaceSet/sscollection1 (192x192 < 193x192 < 192x192)
+[2024-06-02 16:19:48] Debug: Loaded Map Map0003.lmu
+[2024-06-02 16:19:48] Debug: Tree: Path_to_Rehearsal < Test_Room
+[2024-06-02 16:19:54] Debug: Loaded Map Map0002.lmu
+[2024-06-02 16:19:54] Debug: Tree: Characters_Showcase < Test_Room
+[2024-06-02 16:19:54] Debug: Image size out of bounds: CharSet/blind_dragon (288x256 < 257x158 < 288x256)
+[2024-06-02 16:19:54] Debug: Image size out of bounds: CharSet/cavnegro2 (288x256 < 72x128 < 288x256)
+[2024-06-02 16:19:54] Debug: Image size out of bounds: CharSet/cisnenegro (288x256 < 72x128 < 288x256)
+[2024-06-02 16:19:54] Debug: Image size out of bounds: CharSet/debasaga (288x256 < 256x256 < 288x256)
+[2024-06-02 16:19:54] Debug: Image size out of bounds: CharSet/debasaga (288x256 < 256x256 < 288x256) [2x]
+[2024-06-02 16:19:54] Debug: Image size out of bounds: CharSet/dragonshiryu (288x256 < 257x158 < 288x256)
+[2024-06-02 16:19:54] Debug: Image size out of bounds: CharSet/hyoga2 (288x256 < 72x128 < 288x256)
+[2024-06-02 16:19:54] Debug: Image size out of bounds: CharSet/muad (288x256 < 72x128 < 288x256)
+[2024-06-02 16:19:54] Debug: Image size out of bounds: CharSet/marin (288x256 < 256x256 < 288x256)
+[2024-06-02 16:19:54] Debug: Image size out of bounds: CharSet/saori (288x256 < 72x128 < 288x256)
+[2024-06-02 16:19:54] Debug: Image size out of bounds: CharSet/saoribaculo (288x256 < 72x128 < 288x256)
+[2024-06-02 16:19:54] Debug: Image size out of bounds: CharSet/shiryu (288x256 < 257x158 < 288x256)
+[2024-06-02 16:19:54] Debug: Image size out of bounds: CharSet/dragonshiryu (288x256 < 257x158 < 288x256)
+[2024-06-02 16:20:00] Debug: Image size out of bounds: CharSet/dragonshiryu (288x256 < 257x158 < 288x256) [11x]
+[2024-06-02 16:20:00] Debug: Image size out of bounds: FaceSet/seiya (192x192 < 195x194 < 192x192)
+[2024-06-02 16:20:12] Debug: Configuration saved to C:/Users/tfgle/AppData/Roaming/EasyRPG/Player/config.ini
+[2024-06-02 16:20:44] Debug: EasyRPG Player 0.8 (2023-04-29) started
+[2024-06-02 16:20:44] Debug: =======================================
+[2024-06-02 16:20:44] Debug: CLI: 
+[2024-06-02 16:20:44] Debug: Clock: StdSteady steady=true period=ns (1 / 1000000000)
+[2024-06-02 16:20:44] Debug: Seeded the RNG with 1717356044.
+[2024-06-02 16:20:44] Debug: SDL2: RendererInfo hw=true sw=false vsync=true
+[2024-06-02 16:20:44] Debug: SDL2: Detected format (0) SDL_PIXELFORMAT_ARGB8888 : rank=(2)
+[2024-06-02 16:20:44] Debug: SDL2: Selected Pixel Format SDL_PIXELFORMAT_ARGB8888
+[2024-06-02 16:20:44] Debug: Detected encoding: ibm-5348_P100-1997
+[2024-06-02 16:20:44] Debug: Game and Save Directory:
+[2024-06-02 16:20:44] Debug: 1: [Native] 
+[2024-06-02 16:20:44] Debug: Loading game Saint Seiya Collection 2K
+[2024-06-02 16:20:44] Debug: Analyzing RPG_RT RPG_RT.exe
+[2024-06-02 16:20:44] Debug: EXEReader: EXFONT resource found (DE 0xae048; 0xb1484; len 0x2168)
+[2024-06-02 16:20:44] Debug: ExFont loaded from RPG_RT
+[2024-06-02 16:20:44] Debug: EXEReader: VERSIONINFO resource found (DE 0xae2d8; 0xba004; len 0x304)
+[2024-06-02 16:20:44] Debug: RPG_RT information: version=1.6.1.0 logos=1 i386=true easyrpg=false
+[2024-06-02 16:20:44] Debug: Engine configured as: 2k=true 2k3=false MajorUpdated=true Eng=true
+[2024-06-02 16:20:44] Debug: Adding E:\ASCII\RPG2000\RTP to RTP path
+[2024-06-02 16:20:44] Debug: RTP is "Don Miguel English Translation" (500/500)
+[2024-06-02 16:20:44] Debug: Adding E:\Steam\steamapps\common\RPG Maker 2000\RTP to RTP path
+[2024-06-02 16:20:44] Debug: RTP is "Official English" (465/465)
+[2024-06-02 16:20:44] Debug: Patch configuration: dynrpg=false maniac=false key-patch=false common-this=false pic-unlock=false 2k3-commands=false
+[2024-06-02 16:20:44] Debug: Cannot find: Font/Font
+[2024-06-02 16:20:44] Debug: Cannot find: Font/Font2
+[2024-06-02 16:20:45] Debug: Resolution changed to 320x240
+[2024-06-02 16:20:47] Debug: Game uses RTP "Official English"
+[2024-06-02 16:20:47] Debug: Starting new game
+[2024-06-02 16:20:47] Debug: Loaded Map Map0006.lmu
+[2024-06-02 16:20:47] Debug: Tree: _Disclaimer
+[2024-06-02 16:21:02] Debug: Loaded Map Map0001.lmu
+[2024-06-02 16:21:02] Debug: Tree: Test_Room
+[2024-06-02 16:21:02] Debug: Image size out of bounds: CharSet/saoribaculo (288x256 < 72x128 < 288x256)
+[2024-06-02 16:21:05] Debug: Image size out of bounds: FaceSet/sscollection1 (192x192 < 193x192 < 192x192)
+[2024-06-02 16:21:17] Debug: Loaded Map Map0003.lmu
+[2024-06-02 16:21:17] Debug: Tree: Path_to_Rehearsal < Test_Room
+[2024-06-02 16:21:24] Debug: Loaded Map Map0002.lmu
+[2024-06-02 16:21:24] Debug: Tree: Characters_Showcase < Test_Room
+[2024-06-02 16:21:24] Debug: Image size out of bounds: CharSet/blind_dragon (288x256 < 257x158 < 288x256)
+[2024-06-02 16:21:24] Debug: Image size out of bounds: CharSet/cavnegro2 (288x256 < 72x128 < 288x256)
+[2024-06-02 16:21:24] Debug: Image size out of bounds: CharSet/cisnenegro (288x256 < 72x128 < 288x256)
+[2024-06-02 16:21:24] Debug: Image size out of bounds: CharSet/debasaga (288x256 < 256x256 < 288x256)
+[2024-06-02 16:21:24] Debug: Image size out of bounds: CharSet/debasaga (288x256 < 256x256 < 288x256) [2x]
+[2024-06-02 16:21:24] Debug: Image size out of bounds: CharSet/dragonshiryu (288x256 < 257x158 < 288x256)
+[2024-06-02 16:21:24] Debug: Image size out of bounds: CharSet/hyoga2 (288x256 < 72x128 < 288x256)
+[2024-06-02 16:21:24] Debug: Image size out of bounds: CharSet/muad (288x256 < 72x128 < 288x256)
+[2024-06-02 16:21:24] Debug: Image size out of bounds: CharSet/marin (288x256 < 256x256 < 288x256)
+[2024-06-02 16:21:24] Debug: Image size out of bounds: CharSet/saori (288x256 < 72x128 < 288x256)
+[2024-06-02 16:21:24] Debug: Image size out of bounds: CharSet/saoribaculo (288x256 < 72x128 < 288x256)
+[2024-06-02 16:21:24] Debug: Image size out of bounds: CharSet/shiryu (288x256 < 257x158 < 288x256)
+[2024-06-02 16:21:24] Debug: Image size out of bounds: CharSet/dragonshiryu (288x256 < 257x158 < 288x256)
+[2024-06-02 16:21:31] Debug: Image size out of bounds: CharSet/dragonshiryu (288x256 < 257x158 < 288x256) [11x]
+[2024-06-02 16:21:31] Debug: Image size out of bounds: FaceSet/seiya (192x192 < 195x194 < 192x192)
+[2024-06-02 16:21:42] Debug: Loaded Map Map0003.lmu
+[2024-06-02 16:21:42] Debug: Tree: Path_to_Rehearsal < Test_Room
+[2024-06-02 16:21:48] Debug: Loaded Map Map0001.lmu
+[2024-06-02 16:21:48] Debug: Tree: Test_Room
+[2024-06-02 16:21:48] Debug: Image size out of bounds: CharSet/saoribaculo (288x256 < 72x128 < 288x256)
+[2024-06-02 16:21:56] Debug: Loaded Map Map0005.lmu
+[2024-06-02 16:21:56] Debug: Tree: The_Toilet < Test_Room
+[2024-06-02 16:22:10] Debug: Configuration saved to C:/Users/tfgle/AppData/Roaming/EasyRPG/Player/config.ini
+[2024-06-02 16:22:46] Debug: EasyRPG Player 0.8 (2023-04-29) started
+[2024-06-02 16:22:46] Debug: =======================================
+[2024-06-02 16:22:46] Debug: CLI: 
+[2024-06-02 16:22:46] Debug: Clock: StdSteady steady=true period=ns (1 / 1000000000)
+[2024-06-02 16:22:46] Debug: Seeded the RNG with 1717356166.
+[2024-06-02 16:22:46] Debug: SDL2: RendererInfo hw=true sw=false vsync=true
+[2024-06-02 16:22:46] Debug: SDL2: Detected format (0) SDL_PIXELFORMAT_ARGB8888 : rank=(2)
+[2024-06-02 16:22:46] Debug: SDL2: Selected Pixel Format SDL_PIXELFORMAT_ARGB8888
+[2024-06-02 16:22:46] Debug: Detected encoding: ibm-5348_P100-1997
+[2024-06-02 16:22:46] Debug: Game and Save Directory:
+[2024-06-02 16:22:46] Debug: 1: [Native] 
+[2024-06-02 16:22:46] Debug: Loading game Saint Seiya Collection 2K
+[2024-06-02 16:22:46] Debug: Analyzing RPG_RT RPG_RT.exe
+[2024-06-02 16:22:46] Debug: EXEReader: EXFONT resource found (DE 0xae048; 0xb1484; len 0x2168)
+[2024-06-02 16:22:46] Debug: ExFont loaded from RPG_RT
+[2024-06-02 16:22:46] Debug: EXEReader: VERSIONINFO resource found (DE 0xae2d8; 0xba004; len 0x304)
+[2024-06-02 16:22:46] Debug: RPG_RT information: version=1.6.1.0 logos=1 i386=true easyrpg=false
+[2024-06-02 16:22:46] Debug: Engine configured as: 2k=true 2k3=false MajorUpdated=true Eng=true
+[2024-06-02 16:22:46] Debug: Adding E:\ASCII\RPG2000\RTP to RTP path
+[2024-06-02 16:22:46] Debug: RTP is "Don Miguel English Translation" (500/500)
+[2024-06-02 16:22:46] Debug: Adding E:\Steam\steamapps\common\RPG Maker 2000\RTP to RTP path
+[2024-06-02 16:22:46] Debug: RTP is "Official English" (465/465)
+[2024-06-02 16:22:46] Debug: Patch configuration: dynrpg=false maniac=false key-patch=false common-this=false pic-unlock=false 2k3-commands=false
+[2024-06-02 16:22:46] Debug: Cannot find: Font/Font
+[2024-06-02 16:22:46] Debug: Cannot find: Font/Font2
+[2024-06-02 16:22:47] Debug: Resolution changed to 320x240
+[2024-06-02 16:22:49] Debug: Game uses RTP "Official English"
+[2024-06-02 16:22:49] Debug: Starting new game
+[2024-06-02 16:22:49] Debug: Loaded Map Map0006.lmu
+[2024-06-02 16:22:49] Debug: Tree: _Disclaimer
+[2024-06-02 16:23:03] Debug: Loaded Map Map0001.lmu
+[2024-06-02 16:23:03] Debug: Tree: Test_Room
+[2024-06-02 16:23:03] Debug: Image size out of bounds: CharSet/saoribaculo (288x256 < 72x128 < 288x256)
+[2024-06-02 16:23:06] Debug: Image size out of bounds: FaceSet/sscollection1 (192x192 < 193x192 < 192x192)
+[2024-06-02 16:23:19] Debug: Loaded Map Map0003.lmu
+[2024-06-02 16:23:19] Debug: Tree: Path_to_Rehearsal < Test_Room
+[2024-06-02 16:23:25] Debug: Loaded Map Map0002.lmu
+[2024-06-02 16:23:25] Debug: Tree: Characters_Showcase < Test_Room
+[2024-06-02 16:23:25] Debug: Image size out of bounds: CharSet/blind_dragon (288x256 < 257x158 < 288x256)
+[2024-06-02 16:23:25] Debug: Image size out of bounds: CharSet/cavnegro2 (288x256 < 72x128 < 288x256)
+[2024-06-02 16:23:25] Debug: Image size out of bounds: CharSet/cisnenegro (288x256 < 72x128 < 288x256)
+[2024-06-02 16:23:25] Debug: Image size out of bounds: CharSet/debasaga (288x256 < 256x256 < 288x256)
+[2024-06-02 16:23:25] Debug: Image size out of bounds: CharSet/debasaga (288x256 < 256x256 < 288x256) [2x]
+[2024-06-02 16:23:25] Debug: Image size out of bounds: CharSet/dragonshiryu (288x256 < 257x158 < 288x256)
+[2024-06-02 16:23:25] Debug: Image size out of bounds: CharSet/hyoga2 (288x256 < 72x128 < 288x256)
+[2024-06-02 16:23:25] Debug: Image size out of bounds: CharSet/muad (288x256 < 72x128 < 288x256)
+[2024-06-02 16:23:25] Debug: Image size out of bounds: CharSet/marin (288x256 < 256x256 < 288x256)
+[2024-06-02 16:23:25] Debug: Image size out of bounds: CharSet/saori (288x256 < 72x128 < 288x256)
+[2024-06-02 16:23:25] Debug: Image size out of bounds: CharSet/saoribaculo (288x256 < 72x128 < 288x256)
+[2024-06-02 16:23:25] Debug: Image size out of bounds: CharSet/shiryu (288x256 < 257x158 < 288x256)
+[2024-06-02 16:23:25] Debug: Image size out of bounds: CharSet/dragonshiryu (288x256 < 257x158 < 288x256)
+[2024-06-02 16:23:31] Debug: Image size out of bounds: CharSet/dragonshiryu (288x256 < 257x158 < 288x256) [11x]
+[2024-06-02 16:23:31] Debug: Image size out of bounds: FaceSet/seiya (192x192 < 195x194 < 192x192)
+[2024-06-02 16:23:41] Debug: Loaded Map Map0003.lmu
+[2024-06-02 16:23:41] Debug: Tree: Path_to_Rehearsal < Test_Room
+[2024-06-02 16:23:47] Debug: Loaded Map Map0001.lmu
+[2024-06-02 16:23:47] Debug: Tree: Test_Room
+[2024-06-02 16:23:47] Debug: Image size out of bounds: CharSet/saoribaculo (288x256 < 72x128 < 288x256)
+[2024-06-02 16:23:55] Debug: Loaded Map Map0005.lmu
+[2024-06-02 16:23:55] Debug: Tree: The_Toilet < Test_Room
+[2024-06-02 16:24:15] Debug: Loaded Map Map0001.lmu
+[2024-06-02 16:24:15] Debug: Tree: Test_Room
+[2024-06-02 16:24:15] Debug: Image size out of bounds: CharSet/saoribaculo (288x256 < 72x128 < 288x256)
+[2024-06-02 16:24:20] Debug: Loaded Map Map0005.lmu
+[2024-06-02 16:24:20] Debug: Tree: The_Toilet < Test_Room
+[2024-06-02 16:25:03] Debug: Cannot find: Sound/SE_Pup
+[2024-06-02 16:25:03] Debug: Sound not found: SE_Pup
+[2024-06-02 16:25:04] Debug: Cannot find: Sound/SE_Pup
+[2024-06-02 16:25:04] Debug: Sound not found: SE_Pup
+[2024-06-02 16:25:04] Debug: Cannot find: Sound/SE_Pup
+[2024-06-02 16:25:04] Debug: Sound not found: SE_Pup
+[2024-06-02 16:25:36] Debug: Configuration saved to C:/Users/tfgle/AppData/Roaming/EasyRPG/Player/config.ini
+[2024-06-30 02:39:52] Debug: EasyRPG Player 0.8 (2023-04-29) started
+[2024-06-30 02:39:52] Debug: =======================================
+[2024-06-30 02:39:52] Debug: CLI: 
+[2024-06-30 02:39:52] Debug: Clock: StdSteady steady=true period=ns (1 / 1000000000)
+[2024-06-30 02:39:52] Debug: Seeded the RNG with 1719725992.
+[2024-06-30 02:39:52] Debug: SDL2: RendererInfo hw=true sw=false vsync=true
+[2024-06-30 02:39:52] Debug: SDL2: Detected format (0) SDL_PIXELFORMAT_ARGB8888 : rank=(2)
+[2024-06-30 02:39:52] Debug: SDL2: Selected Pixel Format SDL_PIXELFORMAT_ARGB8888
+[2024-06-30 02:39:52] Debug: Detected encoding: ibm-5348_P100-1997
+[2024-06-30 02:39:52] Debug: Game and Save Directory:
+[2024-06-30 02:39:52] Debug: 1: [Native] 
+[2024-06-30 02:39:52] Debug: Loading game Saint Seiya Collection 2K
+[2024-06-30 02:39:52] Debug: Analyzing RPG_RT RPG_RT.exe
+[2024-06-30 02:39:52] Debug: EXEReader: EXFONT resource found (DE 0xae048; 0xb1484; len 0x2168)
+[2024-06-30 02:39:52] Debug: ExFont loaded from RPG_RT
+[2024-06-30 02:39:52] Debug: EXEReader: VERSIONINFO resource found (DE 0xae2d8; 0xba004; len 0x304)
+[2024-06-30 02:39:52] Debug: RPG_RT information: version=1.6.1.0 logos=1 i386=true easyrpg=false
+[2024-06-30 02:39:52] Debug: Engine configured as: 2k=true 2k3=false MajorUpdated=true Eng=true
+[2024-06-30 02:39:52] Debug: Adding E:\ASCII\RPG2000\RTP to RTP path
+[2024-06-30 02:39:52] Debug: RTP is "Don Miguel English Translation" (500/500)
+[2024-06-30 02:39:52] Debug: Adding E:\Steam\steamapps\common\RPG Maker 2000\RTP to RTP path
+[2024-06-30 02:39:52] Debug: RTP is "Official English" (465/465)
+[2024-06-30 02:39:52] Debug: Patch configuration: dynrpg=false maniac=false key-patch=false common-this=false pic-unlock=false 2k3-commands=false
+[2024-06-30 02:39:52] Debug: Cannot find: Font/Font
+[2024-06-30 02:39:52] Debug: Cannot find: Font/Font2
+[2024-06-30 02:39:54] Debug: Resolution changed to 320x240
+[2024-06-30 02:39:55] Debug: Game uses RTP "Official English"
+[2024-06-30 02:39:57] Debug: Configuration saved to C:/Users/tfgle/AppData/Roaming/EasyRPG/Player/config.ini
+[2024-06-30 02:49:24] Debug: EasyRPG Player 0.8 (2023-04-29) started
+[2024-06-30 02:49:24] Debug: =======================================
+[2024-06-30 02:49:24] Debug: CLI: 
+[2024-06-30 02:49:24] Debug: Clock: StdSteady steady=true period=ns (1 / 1000000000)
+[2024-06-30 02:49:24] Debug: Seeded the RNG with 1719726563.
+[2024-06-30 02:49:24] Debug: SDL2: RendererInfo hw=true sw=false vsync=true
+[2024-06-30 02:49:24] Debug: SDL2: Detected format (0) SDL_PIXELFORMAT_ARGB8888 : rank=(2)
+[2024-06-30 02:49:24] Debug: SDL2: Selected Pixel Format SDL_PIXELFORMAT_ARGB8888
+[2024-06-30 02:49:24] Debug: Detected encoding: ibm-5348_P100-1997
+[2024-06-30 02:49:24] Debug: Game and Save Directory:
+[2024-06-30 02:49:24] Debug: 1: [Native] 
+[2024-06-30 02:49:24] Debug: Loading game Saint Seiya Collection 2K
+[2024-06-30 02:49:24] Debug: Analyzing RPG_RT RPG_RT.exe
+[2024-06-30 02:49:24] Debug: EXEReader: EXFONT resource found (DE 0xae048; 0xb1484; len 0x2168)
+[2024-06-30 02:49:24] Debug: ExFont loaded from RPG_RT
+[2024-06-30 02:49:24] Debug: EXEReader: VERSIONINFO resource found (DE 0xae2d8; 0xba004; len 0x304)
+[2024-06-30 02:49:24] Debug: RPG_RT information: version=1.6.1.0 logos=1 i386=true easyrpg=false
+[2024-06-30 02:49:24] Debug: Engine configured as: 2k=true 2k3=false MajorUpdated=true Eng=true
+[2024-06-30 02:49:24] Debug: Adding E:\ASCII\RPG2000\RTP to RTP path
+[2024-06-30 02:49:24] Debug: RTP is "Don Miguel English Translation" (500/500)
+[2024-06-30 02:49:24] Debug: Adding E:\Steam\steamapps\common\RPG Maker 2000\RTP to RTP path
+[2024-06-30 02:49:24] Debug: RTP is "Official English" (465/465)
+[2024-06-30 02:49:24] Debug: Patch configuration: dynrpg=false maniac=false key-patch=false common-this=false pic-unlock=false 2k3-commands=false
+[2024-06-30 02:49:24] Debug: Cannot find: Font/Font
+[2024-06-30 02:49:24] Debug: Cannot find: Font/Font2
+[2024-06-30 02:49:25] Debug: Resolution changed to 320x240
+[2024-06-30 02:49:28] Debug: Image size out of bounds: FaceSet/seiya (192x192 < 195x194 < 192x192)
+[2024-06-30 02:49:28] Debug: Image size out of bounds: FaceSet/sscollection5 (192x192 < 193x193 < 192x192)
+[2024-06-30 02:49:28] Debug: Image size out of bounds: FaceSet/seiya (192x192 < 195x194 < 192x192)
+[2024-06-30 02:49:28] Debug: Image size out of bounds: FaceSet/sscollection5 (192x192 < 193x193 < 192x192)
+[2024-06-30 02:49:29] Debug: Loading Save Save01.lsd
+[2024-06-30 02:49:29] Debug: Savegame version 800 (EasyRPG Player 0.8.0)
+[2024-06-30 02:49:29] Debug: Loaded Map Map0002.lmu
+[2024-06-30 02:49:29] Debug: Tree: Characters_Showcase < Test_Room
+[2024-06-30 02:49:30] Debug: Image size out of bounds: CharSet/blind_dragon (288x256 < 257x158 < 288x256)
+[2024-06-30 02:49:30] Debug: Image size out of bounds: CharSet/cavnegro2 (288x256 < 72x128 < 288x256)
+[2024-06-30 02:49:30] Debug: Image size out of bounds: CharSet/cisnenegro (288x256 < 72x128 < 288x256)
+[2024-06-30 02:49:30] Debug: Image size out of bounds: CharSet/debasaga (288x256 < 256x256 < 288x256)
+[2024-06-30 02:49:30] Debug: Image size out of bounds: CharSet/debasaga (288x256 < 256x256 < 288x256) [2x]
+[2024-06-30 02:49:30] Debug: Image size out of bounds: CharSet/dragonshiryu (288x256 < 257x158 < 288x256)
+[2024-06-30 02:49:30] Debug: Image size out of bounds: CharSet/hyoga2 (288x256 < 72x128 < 288x256)
+[2024-06-30 02:49:30] Debug: Image size out of bounds: CharSet/muad (288x256 < 72x128 < 288x256)
+[2024-06-30 02:49:30] Debug: Image size out of bounds: CharSet/marin (288x256 < 256x256 < 288x256)
+[2024-06-30 02:49:30] Debug: Image size out of bounds: CharSet/saori (288x256 < 72x128 < 288x256)
+[2024-06-30 02:49:30] Debug: Image size out of bounds: CharSet/saoribaculo (288x256 < 72x128 < 288x256)
+[2024-06-30 02:49:30] Debug: Image size out of bounds: CharSet/shiryu (288x256 < 257x158 < 288x256)
+[2024-06-30 02:49:30] Debug: Image size out of bounds: CharSet/dragonshiryu (288x256 < 257x158 < 288x256)
+[2024-06-30 02:50:06] Debug: Image size out of bounds: CharSet/dragonshiryu (288x256 < 257x158 < 288x256) [11x]
+[2024-06-30 02:50:06] Debug: Image size out of bounds: FaceSet/seiya (192x192 < 195x194 < 192x192)
+[2024-06-30 02:50:07] Debug: Game uses RTP "Official English"
+[2024-06-30 02:50:09] Debug: Resolution changed to 320x240
+[2024-06-30 02:50:11] Debug: Configuration saved to C:/Users/tfgle/AppData/Roaming/EasyRPG/Player/config.ini
+[2024-07-01 21:09:30] Debug: EasyRPG Player 0.8 (2023-04-29) started
+[2024-07-01 21:09:30] Debug: =======================================
+[2024-07-01 21:09:30] Debug: CLI: 
+[2024-07-01 21:09:30] Debug: Clock: StdSteady steady=true period=ns (1 / 1000000000)
+[2024-07-01 21:09:30] Debug: Seeded the RNG with 1719878970.
+[2024-07-01 21:09:30] Debug: SDL2: RendererInfo hw=true sw=false vsync=true
+[2024-07-01 21:09:30] Debug: SDL2: Detected format (0) SDL_PIXELFORMAT_ARGB8888 : rank=(2)
+[2024-07-01 21:09:30] Debug: SDL2: Selected Pixel Format SDL_PIXELFORMAT_ARGB8888
+[2024-07-01 21:09:30] Debug: Detected encoding: ibm-5348_P100-1997
+[2024-07-01 21:09:30] Debug: Game and Save Directory:
+[2024-07-01 21:09:30] Debug: 1: [Native] 
+[2024-07-01 21:09:30] Debug: Loading game Saint Seiya Collection 2K
+[2024-07-01 21:09:30] Debug: Analyzing RPG_RT RPG_RT.exe
+[2024-07-01 21:09:30] Debug: EXEReader: EXFONT resource found (DE 0xae048; 0xb1484; len 0x2168)
+[2024-07-01 21:09:30] Debug: ExFont loaded from RPG_RT
+[2024-07-01 21:09:30] Debug: EXEReader: VERSIONINFO resource found (DE 0xae2d8; 0xba004; len 0x304)
+[2024-07-01 21:09:30] Debug: RPG_RT information: version=1.6.1.0 logos=1 i386=true easyrpg=false
+[2024-07-01 21:09:30] Debug: Engine configured as: 2k=true 2k3=false MajorUpdated=true Eng=true
+[2024-07-01 21:09:30] Debug: Adding E:\ASCII\RPG2000\RTP to RTP path
+[2024-07-01 21:09:30] Debug: RTP is "Don Miguel English Translation" (500/500)
+[2024-07-01 21:09:30] Debug: Adding E:\Steam\steamapps\common\RPG Maker 2000\RTP to RTP path
+[2024-07-01 21:09:30] Debug: RTP is "Official English" (465/465)
+[2024-07-01 21:09:30] Debug: Patch configuration: dynrpg=false maniac=false key-patch=false common-this=false pic-unlock=false 2k3-commands=false
+[2024-07-01 21:09:30] Debug: Cannot find: Font/Font
+[2024-07-01 21:09:30] Debug: Cannot find: Font/Font2
+[2024-07-01 21:09:32] Debug: Resolution changed to 320x240
+[2024-07-01 21:09:35] Debug: Game uses RTP "Official English"
+[2024-07-01 21:09:36] Debug: Starting new game
+[2024-07-01 21:09:36] Debug: Loaded Map Map0006.lmu
+[2024-07-01 21:09:36] Debug: Tree: _Disclaimer
+[2024-07-01 21:09:53] Debug: Loaded Map Map0001.lmu
+[2024-07-01 21:09:53] Debug: Tree: Test_Room
+[2024-07-01 21:09:53] Debug: Image size out of bounds: CharSet/saoribaculo (288x256 < 72x128 < 288x256)
+[2024-07-01 21:09:57] Debug: Image size out of bounds: FaceSet/sscollection1 (192x192 < 193x192 < 192x192)
+[2024-07-01 21:10:03] Debug: Loaded Map Map0003.lmu
+[2024-07-01 21:10:03] Debug: Tree: Path_to_Rehearsal < Test_Room
+[2024-07-01 21:10:10] Debug: Loaded Map Map0002.lmu
+[2024-07-01 21:10:10] Debug: Tree: Characters_Showcase < Test_Room
+[2024-07-01 21:10:10] Debug: Image size out of bounds: CharSet/blind_dragon (288x256 < 257x158 < 288x256)
+[2024-07-01 21:10:10] Debug: Image size out of bounds: CharSet/cavnegro2 (288x256 < 72x128 < 288x256)
+[2024-07-01 21:10:10] Debug: Image size out of bounds: CharSet/cisnenegro (288x256 < 72x128 < 288x256)
+[2024-07-01 21:10:10] Debug: Image size out of bounds: CharSet/debasaga (288x256 < 256x256 < 288x256)
+[2024-07-01 21:10:10] Debug: Image size out of bounds: CharSet/debasaga (288x256 < 256x256 < 288x256) [2x]
+[2024-07-01 21:10:10] Debug: Image size out of bounds: CharSet/dragonshiryu (288x256 < 257x158 < 288x256)
+[2024-07-01 21:10:10] Debug: Image size out of bounds: CharSet/hyoga2 (288x256 < 72x128 < 288x256)
+[2024-07-01 21:10:10] Debug: Image size out of bounds: CharSet/muad (288x256 < 72x128 < 288x256)
+[2024-07-01 21:10:10] Debug: Image size out of bounds: CharSet/marin (288x256 < 256x256 < 288x256)
+[2024-07-01 21:10:10] Debug: Image size out of bounds: CharSet/saori (288x256 < 72x128 < 288x256)
+[2024-07-01 21:10:10] Debug: Image size out of bounds: CharSet/saoribaculo (288x256 < 72x128 < 288x256)
+[2024-07-01 21:10:10] Debug: Image size out of bounds: CharSet/shiryu (288x256 < 257x158 < 288x256)
+[2024-07-01 21:10:10] Debug: Image size out of bounds: CharSet/dragonshiryu (288x256 < 257x158 < 288x256)
+[2024-07-01 21:55:16] Debug: Image size out of bounds: CharSet/dragonshiryu (288x256 < 257x158 < 288x256) [11x]
+[2024-07-01 21:55:16] Debug: Image size out of bounds: FaceSet/goldensaints2 (192x192 < 193x193 < 192x192)
+[2024-07-01 21:55:25] Debug: Image size out of bounds: FaceSet/goldensaints2 (192x192 < 193x193 < 192x192) [3x]
+[2024-07-01 21:55:25] Debug: Image size out of bounds: FaceSet/seiya (192x192 < 195x194 < 192x192)
+[2024-07-01 21:55:28] Debug: Loaded Map Map0001.lmu
+[2024-07-01 21:55:28] Debug: Tree: Test_Room
+[2024-07-01 21:55:28] Debug: Image size out of bounds: CharSet/saoribaculo (288x256 < 72x128 < 288x256)
+[2024-07-01 21:55:39] Debug: Loaded Map Map0009.lmu
+[2024-07-01 21:55:39] Debug: Tree: _Beginning
+[2024-07-01 21:55:45] Debug: Loaded Map Map0010.lmu
+[2024-07-01 21:55:45] Debug: Tree: Hypermyth
+[2024-07-01 21:56:27] Debug: Image size out of bounds: CharSet/saoribaculo (288x256 < 72x128 < 288x256)
+[2024-07-01 21:56:27] Debug: Image size out of bounds: CharSet/cavnegro (288x256 < 72x128 < 288x256)
+[2024-07-01 21:56:27] Debug: Image size out of bounds: CharSet/blind_dragon (288x256 < 257x158 < 288x256)
+[2024-07-01 21:56:29] Debug: Image size out of bounds: CharSet/dragonshiryu (288x256 < 257x158 < 288x256)
+[2024-07-01 21:56:31] Debug: Image size out of bounds: CharSet/debasaga (288x256 < 256x256 < 288x256)
+[2024-07-01 21:56:31] Debug: Image size out of bounds: CharSet/debasaga (288x256 < 256x256 < 288x256) [2x]
+[2024-07-01 21:56:31] Debug: Image size out of bounds: CharSet/dragonshiryu (288x256 < 257x158 < 288x256)
+[2024-07-01 21:56:31] Debug: Image size out of bounds: CharSet/marin (288x256 < 256x256 < 288x256)
+[2024-07-01 21:56:36] Debug: Image size out of bounds: CharSet/muad (288x256 < 72x128 < 288x256)
+[2024-07-01 21:56:37] Debug: Image size out of bounds: CharSet/hyoga2 (288x256 < 72x128 < 288x256)
+[2024-07-01 21:56:37] Debug: Image size out of bounds: CharSet/dragonshiryu (288x256 < 257x158 < 288x256)
+[2024-07-01 21:57:07] Debug: Loaded Map Map0008.lmu
+[2024-07-01 21:57:07] Debug: Tree: Space_and_Night_Sky < Hypermyth
+[2024-07-01 21:59:28] Debug: Configuration saved to C:/Users/tfgle/AppData/Roaming/EasyRPG/Player/config.ini
+[2024-08-13 18:18:55] Debug: EasyRPG Player 0.8 (2023-04-29) started
+[2024-08-13 18:18:55] Debug: =======================================
+[2024-08-13 18:18:55] Debug: CLI: 
+[2024-08-13 18:18:55] Debug: Clock: StdSteady steady=true period=ns (1 / 1000000000)
+[2024-08-13 18:18:55] Debug: Seeded the RNG with 1723583934.
+[2024-08-13 18:18:55] Debug: SDL2: RendererInfo hw=true sw=false vsync=true
+[2024-08-13 18:18:55] Debug: SDL2: Detected format (0) SDL_PIXELFORMAT_ARGB8888 : rank=(2)
+[2024-08-13 18:18:55] Debug: SDL2: Selected Pixel Format SDL_PIXELFORMAT_ARGB8888
+[2024-08-13 18:18:55] Debug: Detected encoding: ibm-5348_P100-1997
+[2024-08-13 18:18:55] Debug: Game and Save Directory:
+[2024-08-13 18:18:55] Debug: 1: [Native] 
+[2024-08-13 18:18:55] Debug: Loading game Saint Seiya Collection 2K
+[2024-08-13 18:18:55] Debug: Analyzing RPG_RT RPG_RT.exe
+[2024-08-13 18:18:55] Debug: EXEReader: EXFONT resource found (DE 0xae048; 0xb1484; len 0x2168)
+[2024-08-13 18:18:55] Debug: ExFont loaded from RPG_RT
+[2024-08-13 18:18:55] Debug: EXEReader: VERSIONINFO resource found (DE 0xae2d8; 0xba004; len 0x304)
+[2024-08-13 18:18:55] Debug: RPG_RT information: version=1.6.1.0 logos=1 i386=true easyrpg=false
+[2024-08-13 18:18:55] Debug: Engine configured as: 2k=true 2k3=false MajorUpdated=true Eng=true
+[2024-08-13 18:18:55] Debug: Adding E:\ASCII\RPG2000\RTP to RTP path
+[2024-08-13 18:18:55] Debug: RTP is "Don Miguel English Translation" (500/500)
+[2024-08-13 18:18:55] Debug: Adding E:\Steam\steamapps\common\RPG Maker 2000\RTP to RTP path
+[2024-08-13 18:18:55] Debug: RTP is "Official English" (465/465)
+[2024-08-13 18:18:55] Debug: Patch configuration: dynrpg=false maniac=false key-patch=false common-this=false pic-unlock=false 2k3-commands=false
+[2024-08-13 18:18:55] Debug: Cannot find: Font/Font
+[2024-08-13 18:18:55] Debug: Cannot find: Font/Font2
+[2024-08-13 18:18:56] Debug: Resolution changed to 320x240
+[2024-08-13 18:18:58] Debug: Game uses RTP "Official English"
+[2024-08-13 18:18:58] Debug: Starting new game
+[2024-08-13 18:18:58] Debug: Loaded Map Map0006.lmu
+[2024-08-13 18:18:58] Debug: Tree: _Disclaimer
+[2024-08-13 18:19:12] Debug: Loaded Map Map0001.lmu
+[2024-08-13 18:19:12] Debug: Tree: Test_Room
+[2024-08-13 18:19:13] Debug: Image size out of bounds: CharSet/saoribaculo (288x256 < 72x128 < 288x256)
+[2024-08-13 18:20:00] Debug: Image size out of bounds: FaceSet/seiya (192x192 < 195x194 < 192x192)
+[2024-08-13 18:20:07] Debug: Image size out of bounds: FaceSet/sscollection1 (192x192 < 193x192 < 192x192)
+[2024-08-13 18:20:21] Debug: Loaded Map Map0003.lmu
+[2024-08-13 18:20:21] Debug: Tree: Path_to_Rehearsal < Test_Room
+[2024-08-13 18:20:24] Debug: Couldn't play SErain SE. No free channel available
+[2024-08-13 18:20:37] Debug: Couldn't play SErain SE. No free channel available [13x]
+[2024-08-13 18:20:37] Debug: Couldn't play SEColdWind SE. No free channel available
+[2024-08-13 18:20:47] Debug: Couldn't play SEColdWind SE. No free channel available [2x]
+[2024-08-13 18:20:47] Debug: Loaded Map Map0002.lmu
+[2024-08-13 18:20:47] Debug: Tree: Characters_Showcase < Test_Room
+[2024-08-13 18:20:47] Debug: Image size out of bounds: CharSet/blind_dragon (288x256 < 257x158 < 288x256)
+[2024-08-13 18:20:47] Debug: Image size out of bounds: CharSet/cavnegro2 (288x256 < 72x128 < 288x256)
+[2024-08-13 18:20:47] Debug: Image size out of bounds: CharSet/cisnenegro (288x256 < 72x128 < 288x256)
+[2024-08-13 18:20:47] Debug: Image size out of bounds: CharSet/debasaga (288x256 < 256x256 < 288x256)
+[2024-08-13 18:20:47] Debug: Image size out of bounds: CharSet/debasaga (288x256 < 256x256 < 288x256) [2x]
+[2024-08-13 18:20:47] Debug: Image size out of bounds: CharSet/dragonshiryu (288x256 < 257x158 < 288x256)
+[2024-08-13 18:20:47] Debug: Image size out of bounds: CharSet/hyoga2 (288x256 < 72x128 < 288x256)
+[2024-08-13 18:20:47] Debug: Image size out of bounds: CharSet/muad (288x256 < 72x128 < 288x256)
+[2024-08-13 18:20:47] Debug: Image size out of bounds: CharSet/marin (288x256 < 256x256 < 288x256)
+[2024-08-13 18:20:47] Debug: Image size out of bounds: CharSet/saori (288x256 < 72x128 < 288x256)
+[2024-08-13 18:20:47] Debug: Image size out of bounds: CharSet/saoribaculo (288x256 < 72x128 < 288x256)
+[2024-08-13 18:20:47] Debug: Image size out of bounds: CharSet/shiryu (288x256 < 257x158 < 288x256)
+[2024-08-13 18:20:47] Debug: Image size out of bounds: CharSet/dragonshiryu (288x256 < 257x158 < 288x256)
+[2024-08-13 18:20:48] Debug: Image size out of bounds: CharSet/dragonshiryu (288x256 < 257x158 < 288x256) [11x]
+[2024-08-13 18:20:48] Debug: Couldn't play SEColdWind SE. No free channel available
+[2024-08-13 18:21:43] Debug: Couldn't play SEColdWind SE. No free channel available [11x]
+[2024-08-13 18:21:43] Debug: Loaded Map Map0003.lmu
+[2024-08-13 18:21:43] Debug: Tree: Path_to_Rehearsal < Test_Room
+[2024-08-13 18:21:45] Debug: Couldn't play SErain2 SE. No free channel available
+[2024-08-13 18:21:50] Debug: Couldn't play SErain2 SE. No free channel available [3x]
+[2024-08-13 18:21:50] Debug: Couldn't play Key SE. No free channel available
+[2024-08-13 18:21:50] Debug: Image size out of bounds: FaceSet/seiya (192x192 < 195x194 < 192x192)
+[2024-08-13 18:21:51] Debug: Couldn't play Ice4 SE. No free channel available
+[2024-08-13 18:21:51] Debug: Couldn't play Key SE. No free channel available
+[2024-08-13 18:21:52] Debug: Couldn't play Key SE. No free channel available [2x]
+[2024-08-13 18:21:52] Debug: Image size out of bounds: FaceSet/seiya (192x192 < 195x194 < 192x192)
+[2024-08-13 18:21:53] Debug: Couldn't play Key SE. No free channel available
+[2024-08-13 18:21:53] Debug: Couldn't play Ice4 SE. No free channel available
+[2024-08-13 18:21:54] Debug: Couldn't play Key SE. No free channel available
+[2024-08-13 18:21:54] Debug: Resolution changed to 320x240
+[2024-08-13 18:21:55] Debug: Couldn't play Ice4 SE. No free channel available
+[2024-08-13 18:21:56] Debug: Couldn't play SE_Andromeda_Chain_Noise SE. No free channel available
+[2024-08-13 18:21:56] Debug: Configuration saved to C:/Users/tfgle/AppData/Roaming/EasyRPG/Player/config.ini
