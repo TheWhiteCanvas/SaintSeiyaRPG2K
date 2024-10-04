@@ -1,41 +1,3 @@
-[2024-05-24 20:49:41] Debug: Image size out of bounds: CharSet/cisnenegro (288x256 < 72x128 < 288x256)
-[2024-05-24 20:49:41] Debug: Image size out of bounds: CharSet/debasaga (288x256 < 256x256 < 288x256)
-[2024-05-24 20:49:41] Debug: Image size out of bounds: CharSet/debasaga (288x256 < 256x256 < 288x256) [2x]
-[2024-05-24 20:49:41] Debug: Image size out of bounds: CharSet/dragonshiryu (288x256 < 257x158 < 288x256)
-[2024-05-24 20:49:41] Debug: Image size out of bounds: CharSet/hyoga2 (288x256 < 72x128 < 288x256)
-[2024-05-24 20:49:41] Debug: Image size out of bounds: CharSet/muad (288x256 < 72x128 < 288x256)
-[2024-05-24 20:49:41] Debug: Image size out of bounds: CharSet/marin (288x256 < 256x256 < 288x256)
-[2024-05-24 20:49:41] Debug: Image size out of bounds: CharSet/saori (288x256 < 72x128 < 288x256)
-[2024-05-24 20:49:41] Debug: Image size out of bounds: CharSet/saoribaculo (288x256 < 72x128 < 288x256)
-[2024-05-24 20:49:41] Debug: Image size out of bounds: CharSet/shiryu (288x256 < 257x158 < 288x256)
-[2024-05-24 20:49:41] Debug: Image size out of bounds: CharSet/dragonshiryu (288x256 < 257x158 < 288x256)
-[2024-05-24 20:52:26] Debug: Image size out of bounds: CharSet/dragonshiryu (288x256 < 257x158 < 288x256) [11x]
-[2024-05-24 20:52:26] Debug: Image size out of bounds: FaceSet/seiya (192x192 < 195x194 < 192x192)
-[2024-05-24 20:52:28] Debug: Resolution changed to 320x240
-[2024-05-24 20:52:30] Debug: Configuration saved to C:/Users/tfgle/AppData/Roaming/EasyRPG/Player/config.ini
-[2024-05-24 21:01:57] Debug: EasyRPG Player 0.8 (2023-04-29) started
-[2024-05-24 21:01:57] Debug: =======================================
-[2024-05-24 21:01:57] Debug: CLI: 
-[2024-05-24 21:01:57] Debug: Clock: StdSteady steady=true period=ns (1 / 1000000000)
-[2024-05-24 21:01:57] Debug: Seeded the RNG with 1716595316.
-[2024-05-24 21:01:57] Debug: SDL2: RendererInfo hw=true sw=false vsync=true
-[2024-05-24 21:01:57] Debug: SDL2: Detected format (0) SDL_PIXELFORMAT_ARGB8888 : rank=(2)
-[2024-05-24 21:01:57] Debug: SDL2: Selected Pixel Format SDL_PIXELFORMAT_ARGB8888
-[2024-05-24 21:01:57] Debug: Detected encoding: ibm-5348_P100-1997
-[2024-05-24 21:01:57] Debug: Game and Save Directory:
-[2024-05-24 21:01:57] Debug: 1: [Native] 
-[2024-05-24 21:01:57] Debug: Loading game Saint Seiya Collection 2K
-[2024-05-24 21:01:57] Debug: Analyzing RPG_RT RPG_RT.exe
-[2024-05-24 21:01:57] Debug: EXEReader: EXFONT resource found (DE 0xae048; 0xb1484; len 0x2168)
-[2024-05-24 21:01:57] Debug: ExFont loaded from RPG_RT
-[2024-05-24 21:01:57] Debug: EXEReader: VERSIONINFO resource found (DE 0xae2d8; 0xba004; len 0x304)
-[2024-05-24 21:01:57] Debug: RPG_RT information: version=1.6.1.0 logos=1 i386=true easyrpg=false
-[2024-05-24 21:01:57] Debug: Engine configured as: 2k=true 2k3=false MajorUpdated=true Eng=true
-[2024-05-24 21:01:57] Debug: Adding E:\ASCII\RPG2000\RTP to RTP path
-[2024-05-24 21:01:57] Debug: RTP is "Don Miguel English Translation" (500/500)
-[2024-05-24 21:01:57] Debug: Adding E:\Steam\steamapps\common\RPG Maker 2000\RTP to RTP path
-[2024-05-24 21:01:57] Debug: RTP is "Official English" (465/465)
-[2024-05-24 21:01:57] Debug: Patch configuration: dynrpg=false maniac=false key-patch=false common-this=false pic-unlock=false 2k3-commands=false
 [2024-05-24 21:01:57] Debug: Cannot find: Font/Font
 [2024-05-24 21:01:57] Debug: Cannot find: Font/Font2
 [2024-05-24 21:01:58] Debug: Resolution changed to 320x240
@@ -1262,3 +1224,45 @@
 [2024-08-13 18:21:55] Debug: Couldn't play Ice4 SE. No free channel available
 [2024-08-13 18:21:56] Debug: Couldn't play SE_Andromeda_Chain_Noise SE. No free channel available
 [2024-08-13 18:21:56] Debug: Configuration saved to C:/Users/tfgle/AppData/Roaming/EasyRPG/Player/config.ini
+[2024-09-11 02:13:43] Debug: EasyRPG Player 0.8 (2023-04-29) started
+[2024-09-11 02:13:43] Debug: =======================================
+[2024-09-11 02:13:43] Debug: CLI: 
+[2024-09-11 02:13:43] Debug: Clock: StdSteady steady=true period=ns (1 / 1000000000)
+[2024-09-11 02:13:43] Debug: Seeded the RNG with 1726031623.
+[2024-09-11 02:13:43] Debug: SDL2: RendererInfo hw=true sw=false vsync=true
+[2024-09-11 02:13:43] Debug: SDL2: Detected format (0) SDL_PIXELFORMAT_ARGB8888 : rank=(2)
+[2024-09-11 02:13:43] Debug: SDL2: Selected Pixel Format SDL_PIXELFORMAT_ARGB8888
+[2024-09-11 02:13:43] Debug: Detected encoding: ibm-5348_P100-1997
+[2024-09-11 02:13:43] Debug: Game and Save Directory:
+[2024-09-11 02:13:43] Debug: 1: [Native] 
+[2024-09-11 02:13:43] Debug: Loading game Saint Seiya Collection 2K
+[2024-09-11 02:13:43] Debug: Analyzing RPG_RT RPG_RT.exe
+[2024-09-11 02:13:43] Debug: EXEReader: EXFONT resource found (DE 0xae048; 0xb1484; len 0x2168)
+[2024-09-11 02:13:43] Debug: ExFont loaded from RPG_RT
+[2024-09-11 02:13:43] Debug: EXEReader: VERSIONINFO resource found (DE 0xae2d8; 0xba004; len 0x304)
+[2024-09-11 02:13:43] Debug: RPG_RT information: version=1.6.1.0 logos=1 i386=true easyrpg=false
+[2024-09-11 02:13:43] Debug: Engine configured as: 2k=true 2k3=false MajorUpdated=true Eng=true
+[2024-09-11 02:13:43] Debug: Adding E:\ASCII\RPG2000\RTP to RTP path
+[2024-09-11 02:13:43] Debug: RTP is "Don Miguel English Translation" (500/500)
+[2024-09-11 02:13:43] Debug: Adding E:\Steam\steamapps\common\RPG Maker 2000\RTP to RTP path
+[2024-09-11 02:13:44] Debug: RTP is "Official English" (465/465)
+[2024-09-11 02:13:44] Debug: Patch configuration: dynrpg=false maniac=false key-patch=false common-this=false pic-unlock=false 2k3-commands=false
+[2024-09-11 02:13:44] Debug: Cannot find: Font/Font
+[2024-09-11 02:13:44] Debug: Cannot find: Font/Font2
+[2024-09-11 02:13:45] Debug: Resolution changed to 320x240
+[2024-09-11 02:13:47] Debug: Game uses RTP "Official English"
+[2024-09-11 02:13:48] Debug: Starting new game
+[2024-09-11 02:13:48] Debug: Loaded Map Map0006.lmu
+[2024-09-11 02:13:48] Debug: Tree: _Disclaimer
+[2024-09-11 02:14:03] Debug: Loaded Map Map0001.lmu
+[2024-09-11 02:14:03] Debug: Tree: Test_Room
+[2024-09-11 02:14:03] Debug: Image size out of bounds: CharSet/saoribaculo (288x256 < 72x128 < 288x256)
+[2024-09-11 02:14:12] Debug: Image size out of bounds: FaceSet/sscollection1 (192x192 < 193x192 < 192x192)
+[2024-09-11 02:14:16] Debug: Image size out of bounds: FaceSet/goldensaints2 (192x192 < 193x193 < 192x192)
+[2024-09-11 02:14:32] Debug: Image size out of bounds: FaceSet/seiya (192x192 < 195x194 < 192x192)
+[2024-09-11 02:14:39] Debug: Loaded Map Map0003.lmu
+[2024-09-11 02:14:39] Debug: Tree: Path_to_Rehearsal < Test_Room
+[2024-09-11 02:14:42] Debug: Image size out of bounds: FaceSet/seiya (192x192 < 195x194 < 192x192)
+[2024-09-11 02:14:46] Debug: Image size out of bounds: FaceSet/seiya (192x192 < 195x194 < 192x192) [2x]
+[2024-09-11 02:14:46] Debug: Resolution changed to 320x240
+[2024-09-11 02:14:48] Debug: Configuration saved to C:/Users/tfgle/AppData/Roaming/EasyRPG/Player/config.ini
